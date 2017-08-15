@@ -22,52 +22,61 @@ def findURIList(filename='list.html'):
 
 
 def crawler(filename='list.html'):
-  count = 0
   titleList = []
   dateList = []
   userList = []
   articleList = []
   result = findURIList(filename)
-  for page in result:
-    count += 1
-    if count < 2:
-      headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'
-      }
-      response = requests.get(page, headers=headers)
+  for i in range(len(result)):
+    # 方便从中间开始爬
+    startPoint = 0
+    if i+startPoint>=len(result)-1:
+      break
+    page = result[i+startPoint]
 
-      titleMatch = re.compile(r'(?<=<title>).*?(?=</title>)')
-      title = re.search(titleMatch, response.text).group()
-      titleList.append(title)
+    headers = {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'
+    }
+    response = requests.get(page, headers=headers)
 
-      dateMatch = re.compile(r'(?<=<em id="post-date" class="rich_media_meta rich_media_meta_text">).*?(?=</em>)')
-      date = re.search(dateMatch, response.text).group()
-      dateList.append(date)
+    titleMatch = re.compile(r'(?<=<title>).*?(?=</title>)')
+    title = re.search(titleMatch, response.text).group()
+    titleList.append(title)
 
-      userMatch = re.compile(r'(?<=id="post-user">).*?(?=</a>)')
-      user = re.search(userMatch, response.text).group()
-      userList.append(user)
+    dateMatch = re.compile(r'(?<=<em id="post-date" class="rich_media_meta rich_media_meta_text">).*?(?=</em>)')
+    # 如果内容被作者删除或违规删除，date 将返回 None
+    date = re.search(dateMatch, response.text)
+    if date:
+      date = date.group()
+    else:
+      continue
+    dateList.append(date)
 
-      articleMatch = re.compile(r'(?<=id="js_content">).*?(?=</div>)', re.DOTALL)
-      rawArticle = re.search(articleMatch, response.text).group()
-      htmlArticle = etree.HTML(rawArticle)
-      article = htmlArticle.xpath('//p//span')
+    userMatch = re.compile(r'(?<=id="post-user">).*?(?=</a>)')
+    user = re.search(userMatch, response.text).group()
+    userList.append(user)
 
+    articleMatch = re.compile(r'(?<=id="js_content">).*?(?=</div>)', re.DOTALL)
+    rawArticle = re.search(articleMatch, response.text).group()
+    htmlArticle = etree.HTML(rawArticle)
+    article = htmlArticle.xpath('//p//span | //p//strong | //p')
 
-      articleList.append(article)
+    articleList.append(article)
 
+    print("Article No. " + str(i+startPoint))
+    print(title)
+    print(date + " " + user)
+    print()
+    for line in article:
+      print(line.text)
+    print()
+    print("--------------------------------")
+    print()
 
-      print(title + " " + date + " " + user)
-      print()
-      for line in article:
-        print(line.text)
-      print()
-      print("--------------------------------")
-      print()
-      print()
 
 def main():
-  crawler()
+  filename = input()
+  crawler(filename=filename)
 
 
 if __name__ == '__main__':
