@@ -1,3 +1,24 @@
+#
+# Ted Shaowang 2017/08/16
+#
+# A crawler for WeChat Official Accounts
+# 微信公众号文章爬虫
+#
+# Crawls ALL articles from one particular account
+# TBS Studio may be needed to get the full list of articles (html file)
+# 可爬取某一公众号所有文章，需要通过 TBS Studio 得到文章列表页 html 方可爬取
+#
+# Currently only plain text supported
+# 目前仅支持纯文本爬取
+#
+# Usage:
+# echo 'html filename' | python3 crawler.py > 'output text filename'
+#
+# Example:
+# echo FSTQuant.html | python3 crawler.py > FSTQuant.txt
+#
+
+
 import re
 import codecs
 import requests
