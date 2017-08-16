@@ -15,7 +15,7 @@
 # echo 'html filename' | python3 crawler.py > 'output text filename'
 #
 # Example:
-# echo FSTQuant.html | python3 crawler.py > FSTQuant.txt
+# echo lalala.html | python3 crawler.py > lalala.txt
 #
 
 
@@ -89,7 +89,8 @@ def crawler(filename='list.html'):
     print(date + " " + user)
     print()
     for line in article:
-      print(line.text)
+      if line.text:
+        print(line.text)
     print()
     print("--------------------------------")
     print()
