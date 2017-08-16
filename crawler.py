@@ -61,7 +61,7 @@ def crawler(filename='list.html'):
   for i in range(len(result)):
     # 方便从中间开始爬
     startPoint = 0
-    if i+startPoint>=len(result)-1:
+    if i+startPoint>=len(result):
       break
     page = result[i+startPoint]
 
