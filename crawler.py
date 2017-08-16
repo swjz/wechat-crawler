@@ -68,8 +68,15 @@ def crawler(filename='list.html'):
     headers = {
       'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'
     }
-    response = requests.get(page, headers=headers)
 
+    # Crawl with proxies
+    # proxies = {
+    #   "http": "http://127.0.0.1:1087",
+    #   "https": "http://127.0.0.1:1087"
+    # }
+    # response = requests.get(page, headers=headers, proxies=proxies)
+
+    response = requests.get(page, headers=headers)
     titleMatch = re.compile(r'(?<=<title>).*?(?=</title>)')
     title = re.search(titleMatch, response.text).group()
     titleList.append(title)
