@@ -23,6 +23,7 @@ import re
 import codecs
 import requests
 from lxml import etree
+from lxml.html.clean import Cleaner
 
 
 def findURIList(filename='list.html'):
@@ -30,10 +31,19 @@ def findURIList(filename='list.html'):
   resultList = []
   try:
     for line in file:
-      match = re.compile(r'(?<=hrefs=["])http://mp.weixin.qq.com/s.*?(?=["])')
-      lineResult = re.findall(match, line)
-      for thisResult in lineResult:
-        resultList.append(thisResult)
+      # pattern for new articles
+      match_s = re.compile(r'(?<=hrefs=["])http://mp.weixin.qq.com/s.*?(?=["])')
+      lineResult_s = re.findall(match_s, line)
+      if lineResult_s:
+        for thisResult in lineResult_s:
+          resultList.append(thisResult)
+
+      else:
+        # pattern for old articles
+        match_mp = re.compile(r'(?<=hrefs=["])http://mp.weixin.qq.com/mp.*?(?=["])')
+        lineResult_mp = re.findall(match_mp, line)
+        for thisResult in lineResult_mp:
+          resultList.append(thisResult)
   finally:
     file.close()
     resultListUnique = list(set(resultList))
@@ -79,8 +89,12 @@ def crawler(filename='list.html'):
 
     articleMatch = re.compile(r'(?<=id="js_content">).*?(?=</div>)', re.DOTALL)
     rawArticle = re.search(articleMatch, response.text).group()
-    htmlArticle = etree.HTML(rawArticle)
-    article = htmlArticle.xpath('//p//span | //p//strong | //p')
+
+    cleaner = Cleaner(style=True, scripts=True, page_structure=False, safe_attrs_only=False, remove_tags=['em', 'br', 'strong', 'span'])
+    cleanedArticle = cleaner.clean_html(rawArticle)
+    htmlArticle = etree.HTML(cleanedArticle)
+
+    article = htmlArticle.xpath('//p | //section')
 
     articleList.append(article)
 
