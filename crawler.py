@@ -1,7 +1,7 @@
 #
 # Ted Shaowang 2017/08/16
 #
-# A crawler for WeChat Official Accounts
+# A Crawler for WeChat Official Accounts
 # 微信公众号文章爬虫
 #
 # Crawls ALL articles from one particular account
