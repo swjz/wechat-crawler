@@ -1,0 +1,2264 @@
+Article No. 0
+市场主流预期错在哪里？
+2017-08-15 GlobalAssetAllocator
+
+一位大神的观点，大家膜拜吧。
+单月数据波动性太高，并不能说明什么，制造业前景仍然看好。
+假设大宗商品价格维持当前水平，四季度PPI同比增速将在4%以上，远高于市场预期（主要根据翘围因素）的2%。
+猪周期将迎来拐点，农产品价格触底，只要不发生极端天气，未来几个月食品分项对CPI的拖累将大幅减轻，对CPI造成上涨压力。
+食品CPI目前是市场的盲点，
+通胀从来都是滞后指标，美国核心通胀将在年底之前回升，联储的判断是对的。
+虽然人民币最近明显升值，但更多反映欧元的强势和“逆周期调节因子”，资本外流反而加速了。
+为什么？反腐高压，商界大佬瑟瑟发抖，可以想象地下钱庄生意不错。
+I close my eyes in order to see.
+             
+         
+     
+            
+      
+Paul
+ 
+Gauguin
+
+--------------------------------
+
+Article No. 1
+2010H2-2011H1 Deja Vu? 商品价格上涨的可持续性
+2017-08-03 GlobalAssetAllocator
+
+‍
+最近10年，大宗商品基本决定于中国需求，而中国需求很大程度由货币政策决定，因此能够观察到商品价格与中国货币政策之间非常高的同步性。今年初至6月的市场也基本符合这一历史关系，央行收紧流动性，造成贸易商被动去库存，大宗商品的价格下跌了约20%。但最近几周，商品出现了非常强劲的反弹，技术上站上了所有均线，完全扭转了下行趋势。很多人都关心这波商品的反弹是否能否持续。
+最近10年，只有2010年下半年至2011年上半年出现过中国货币政策已经收紧，但商品仍大幅上涨的情景。在这期间，全球经济动能明显反弹，中债和美债利率上行了100bps。
+这样的情景是否会在下半年重现呢？我认为至少发生的概率被大大低估了，虽然全球货币政策在边际收紧，广义的货币金融条件仍是继续放松的，尤其是美元大幅走弱，对商品非常利好，这与2010年下半年非常相似。
+在全球经济同步复苏的大背景下，复苏的内生可持续性被低估了，企业盈利好转，投资冲动提升，对商品的需求将保持强劲。
+商品是实物资产，不像股票这样的金融资产基于预期现金流，现货市场是一定要出清的。其出清价格取决于供需的绝对水平，而不是需求(GDP或投资)增速。即使需求增速有所放缓（但为正），在供给不变的情况下，价格也有上行压力，所以下半年GDP或投资增速放缓理论上并不是阻碍商品价格上涨的理由。
+况且商品供给本来就是滞后的，难以对需求和价格上涨迅速反应，商品供给周期和经济周期经常不同步。2010年下半年，需求回升，但供给吃紧，许多商品库存消耗很快。
+目前很多商品库存处于历史低位，加上供给侧改革和环保政策，增产受到很大限制，进一步加剧供需不平衡。
+如果商品价格持续上涨会挑战很多此前的主流预期，比如PPI增速下半年会显著放缓（做经济预测只看翘尾因素岂不是太简单了点）>名义GDP增速高点已过>今年流动性最紧的时候已经过去了>回购利率不会再往上调了>国债利率和信用利差高点已经过了等等。
+国内大部分投资组合的商品敞口是不足的，在这种情景下会非常suffer。基于股、债、商品的风险平价组合是应对这种宏观不确定性比较安全的选择（
+
+--------------------------------
+
+Article No. 2
+转载：金融怪杰 |【市场往事】
+2017-07-24 GlobalAssetAllocator
+
+转一篇很棒的书评，关于Jack Schwager的Market Wizards系列，用Q&A的形式让大牛trader介绍自己的投资理念和深刻教训，绝对是做投资交易的must-read
+全文链接：
+
+--------------------------------
+
+Article No. 3
+利率上升对股市的影响：It&#39;s not what you think it should be
+2017-07-11 GlobalAssetAllocator
+
+最近几日，德国国债收益率突破0.5%关键阻力位，市场对经济数据的预期已经打到很低，在主要经济体强劲的6月PMI数据刺激下，美债也突破了前期下行趋势。这可能触发拥挤的美债多头止损，造成利率上升的负反馈。总之，全球利率上涨的趋势还没有完结（
+一些投资者担忧目前已经偏贵的股市难以承受利率上升之重。但从历史上看，股价和利率绝大部分时间是明显的正相关关系，也就是说股市和利率经常同涨同跌。
+很多人用DDM模型来分析股市，认为利率上升造成分母变大，会对股市不利，但这里面存在两个误解。首先，DDM的分母不是利率，而是Cost of Equity（COE），COE由无风险利率和股权风险溢价（ERP）构成。如果ERP下降，即使利率上升，分母也不一定是变大的。实际上，无风险利率和ERP大部分时间是反向变动的。这不难理解，如果利率上升反映经济向好，风险偏好情绪经常是上涨的。第二，DDM的分子，也就是盈利预期往往与利率正相关。如果利率上升反映经济复苏、通缩风险缓解，企业盈利肯定是好转的。这就是全球目前的状态。
+Trump上台以来，标普500上涨了12%左右，有5%来自估值扩张，剩下大部分7%实际来自盈利增长，因此近期美股上涨是有一定基本面支撑的。从绝对水平来说，美股估值是贵的，但估值是不能用来做择时的（
+从近期利率上升的分解来看，主要是受到通胀预期上升的推动，实际利率是下降的，这对风险资产实际是利好的。
+政策利率仍低于自然利率，货币政策对经济仍然是扩张的。就像德国央行行长Weidmann说的，现在央行在做的是，放松踩油门的力度，而不是踩刹车。利率曲线没有倒挂，信用利差也很窄，全球股市进入熊市的条件并没有完全具备。
+从risk cycle的角度看，股票确实有回调的风险，但重要的是大趋势还没结束，即使回调还会创新高。
+虽然利率上升不意味着熊市到来，但对股票内部的结构是有影响的，比如利率上升有利于金融股，不利于IT股；有利于非美股，不利于美股。
+ 
+
+--------------------------------
+
+Article No. 4
+一些市场评论和吐槽
+2017-07-04 GlobalAssetAllocator
+
+从周期性的观点来说，本轮全球复苏还没走完（
+20170301Q&A:本轮经济复苏的可持续性
+，
+20170424准备进入再通胀交易2.0
+），这是中期内资产定价最重要的因素。政治、监管等等时间长一点都是噪音，sophisticated investors要做的是，穿越短期的情绪波动，拿住核心头寸。
+同时，利用市场大众对新闻头条短期的过度应激反应，挖掘交易机会，类似A股4月底5月初对监管和流动性收紧的过度担忧。大家可以试试，少看财经新闻、减少无意义的同业交流，你的投资业绩大概率会提高，换手率会减少，当然坚持投资纪律是前提。
+以及近期大蓝筹过度拥挤的头寸。看到一些研究以蓝筹相对创业板的估值或者蓝筹估值在历史区间的位置为证据，以证明大蓝筹的行情没走完，我表示十分震惊，结论是否正确先放一边，用估值去择时是业余的表现，好比用大刀砍蚊子，这难道不是做投资该学的第一课吗？
+
+--------------------------------
+
+Article No. 5
+转 鹏扬观察 | 下半年美国经济展望
+2017-06-30 GlobalAssetAllocator
+
+3月以来，美国经济和通胀数据出现明显回落，加上特朗普政治风波发酵，美债利率大幅下行40BP，但与此同时美股持续创下新高，股债对未来美国经济前景作出迥异的定价，令许多投资者困惑。
+全文链接
+ 
+
+--------------------------------
+
+Article No. 6
+风险平价在中国是否适用？
+2017-06-12 GlobalAssetAllocator
+
+答案是肯定的，但前提是打开方式正确。基于人民币资产的风险平价策略可以在近乎完美控制回撤的基础上，获得年化6.5%的回报率。如果审慎地给管理人5-10%的风险预算做主动管理，实现1-2%的alpha，那么整体预期收益应该在8%附近（费前）。上述测算几乎没有数据挖掘和优化的成分，所以是很robust的。
+在打破刚兑、资管产品净值化的新监管框架下，国内大部分资管产品追求的绝对收益+本金保护投资目标不能再通过类旁氏安排来实现，而只依靠单一资产难以应对复杂多变的宏观环境，基于风险平价的多资产策略应该是低风险投资者的最佳选择。
+尤其像今年这种不确定性很高的市场，如果不做好分散化，没有风险平价这种系统性配置框架做锚，完全依赖主观判断去做TAA，很容易被反复打脸。
+参考文章 
+ 
+
+--------------------------------
+
+Article No. 7
+RMB Chartbook: 回到起点
+2017-06-05 GlobalAssetAllocator
+
+2014年以来的企业部门主导的外汇去杠杆已经结束了，这是过去两年驱动人民币贬值最大的flow，私人部门目前基本没有外汇敞口
+去年底以来，中国国债利率迅速上行，修复了与汇率之间的缺口
+中美利差放宽至历史上较高的位置，缓解了贬值压力
+本币生产成本上升，大宗商品和原材料股票是近期人民币汇率升值的大输家
+外币债务风险降低，香港内房股受益于近期人民币升值
+近期的利率上升和汇率走强造成了货币金融条件的收紧，将在下半年传导至实体经济，但目前的收紧程度还远不及13-14年期间，经济和通胀应该不会出现断崖式下跌
+ 
+无论你是看图、看基本面还是做量化，做投资一定要有自己的核心价值观，没有这些核心价值观，你会淹没在各种杂乱无章的信息和市场变动里，像一个稻草人
+
+--------------------------------
+
+Article No. 8
+中国固定资产投资之谜：你没有想象的那么脆弱
+2017-05-24 GlobalAssetAllocator
+
+中国的固定资产投资数据一直是谜一样的存在，很少有人能说得清它是怎么统计出来的。统计局的定义如下：全社会固定资产投资以货币形式表现的在一定时期内全社会建造和购置固定资产的工作量以及与此有关的费用的总称。该指标是反映固定资产投资规模、结构和发展速度的综合性指标，又是观察工程进度和考核投资效果的重要依据。全社会固定资产投资按登记注册类型可分为国有、集体、联营、股份制、私营和个体、港澳台商、外商、其他等。反正我看了好几遍还是黑人脸。
+但这样的解释是很笼统的，有点过于简单了，虽然这期间中国经济增速显示出趋势性的下降，但经济其实经历了很多次周期。我不太相信经济出现这么明显的周期性波动，而里面没有投资的贡献。实际上，固定资产投资数据和国债利率基本失去了关联性，债券交易员已经完全不依赖投资数据来判断经济周期了。辽宁的投资数据造假事件更是进一步降低了这个数据的可信度。
+中国官方公布的投资数据有三类：城镇固定资产投资、全社会固定资产投资和资本形成总额。前两个是月度数据，市场关注的比较紧。后一个是进入年度GDP核算的数据。
+固定资产投资数据有两个很大的问题。第一，它反映的是企业投资的总量，而不是增加值，这意味着固定资产投资统计时包括了土地购置、二手器材和建筑等费用，而增加值才产生GDP。第二，它是名义值，意味着没有剔除价格因素影响，不能反映实际需求的量。虽然统计局公布了固定资产投资的价格平减指数，但基本没有纠正名义数据缺乏周期性的问题。
+ 
+那么如果不看投资数据，应该用什么来衡量中国企业的实际投资情况？
+第一个选择是看挖掘机销量、铁路货运量和进口这几个理论上与企业投资紧密关联，而且排除价格影响的数据。可以看到，这些数据反映的投资情况远比固定资产投资数据要好。
+第二个选择是看央行的5000户工业企业调查。这个数据的好处在于历史非常长，可以回到1992年，而且统计时用的离散指数的方式，也不会受到价格和数据质量的影响。这个数据的问题在于频率是季频，而且更新时间不定，目前调查里对投资意愿的数据只到去年9月。但由于历史上企业盈利调查结果和投资意愿相关性非常高，从目前企业盈利调查出现大幅回升，可以推断出投资意愿大概率是在回升的。
+第三个选择是看央行的银行家贷款需求调查，企业投资大部分是用贷款融资的，如果贷款需求强，可以侧面反映投资意愿强。
+第四个选择是看美国的投资数据和领先指标，因为全球产业链的高度融合意味着中美的投资周期应该是高度吻合的。事实上能够看到中国挖掘机销量跟美国投资数据在周期上的同步性。而美国信贷调查和费城联储Capex调查这些历史上非常稳定的领先指标都显示，美国投资将会迎来复苏，那中国的投资恐怕也不会像固定资产投资数据显示的那么差。
+综上，官方公布的固定资产投资数据质量有很大的问题，不能很好的反应中国企业的真实投资意愿。从更多其他数据cross check的结果表明，企业投资前景可能并没有那么差。
+
+--------------------------------
+
+Article No. 9
+【旧文重发】从资产负债表角度解密中国债务
+2017-05-14 GlobalAssetAllocator
+
+重发一篇去年写的关于中国债务的文章，数据有些变化，但不影响结论。最近去杠杆和债务问题又成市场关注焦点了，不过看到好多文章又在瞎写，吓唬领导和投资人，重申下这篇文章的中心思想，只看债务水平，不看资产负债结构就是耍流氓。
+原文载于华尔街见闻专栏 
+前段时间朋友圈流行一首诗，名字叫“如何当中国著名经济学家”，第一句就是“出言必称高杠杆，遇事就跟日本比”。足见中国的债务问题已经有多少人写过了，但我觉得里面还是存在许多误解，甚至是阴谋论，没有抓住主要矛盾。
+Q1:中国的债务高不高？
+下图是
+BIS的数据，应该是可以拿到的最长的时间序列了。2015年9月，中国非金融债务
+（政府+企业+居民）
+因此，按照这个指标来看，中国的债务是偏高的，但没有到极端的程度。
+数据来源：
+https://www.bis.org/statistics/totcredit.htm
+Q2: 中国债务的脆弱性高不高？
+我认为不高，只看债务水平，不看资产负债结构就是耍流氓
+在数据完美可得的情况下，我可以画出如下一个类似数独的表。记得在欧债危机的时候，桥水在分析希腊债务危机的时候就用过类似的方法，分析的时候可以根据不同债权人与债务的人的关系和利益捆绑程度，对再融资率做假设，以估计债务人的
+流动性缺口。
+要完成一个类似的数独，中国目前的数据是不支持的，但没关系，我们只需要了解
+一个大的picture，
+中国是对外净债权国，i.e.在合并报表下，中国作为一个整体是债主，而不是欠钱的。
+一个人的债务就是另一个人的资产。中国的对外净债权地位意味着，
+中国这292%的债务，大部分是内债（本国居民持有），而不是外债（外国居民持有）。
+很多历史经验和实证研究都表明，内债和外债的脆弱性和爆发债务危机的概率完全不可同日而语。
+To see why，我们看看NIIP怎么来的，NIIP
+t
+t-1
+t
+△
+t
+=
+△
+说白了，中国企业的最终债主正是本国的家庭部门。
+来源：Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth 
+因此，在衡量债务问题时，区分内债和外债十分重要。
+外债过多的国家往往是前期内需过多造成的，表现为通胀高企，实际汇率上涨，经常账户赤字，
+一旦遭遇credit crunch，只能被迫大规模缩减国内需求，恶性去杠杆，欧洲边缘国家和
+希腊债务水平远没有日本高，为什么会出现拐点，因为大部分是外债，信用基本面一恶化，敏感的外国投资者就不愿意refinance，出现了国际收支危机。
+内债多的国家，多数是发达国家比如日本、北欧四国和欧元区整体，这些经济体里面的高杠杆部门杠杆加不上去的时候，会
+表现为内需不足、通缩风险上升，但
+做空日债之所以成为寡妇交易，就是因为做空者低估了本国投资者的超额储蓄和home bias，虽然日本并没有资本管制，日本居民持有的外国净资产已经达到GDP的70%，但通缩环境下对于本国国债的需求仍然十分强劲。
+中国明显属于内债高的国家
+，
+过去30年，有利的人口结构（30-64岁的prime saver占比大幅上升）和有房才有老婆的社会习俗，导致
+中国居民部门的储蓄率异常的高。未来10年这些因素预计不会显著改变，居民部门的超额储蓄没有更好的选择，只能继续为企业和政府部门的存量债务和新增赤字融资
+，国际收支
+危机
+数据来源：Datastream,UN,作者计算
+一个尾部风险是国内储蓄美元化，即资本外流，毕竟中国的M2有22万亿美元，流出15%，外汇储备就没了。
+但如果说还有一个国家还能否比较有效地实现资本管制的话，我不是针对谁。。。2014年下半年以来的de facto资本管制效果大家都看得到。
+综上，中国债务水平虽偏高，但不极端，而且都是居民部门支持的内债，结构稳定。
+Q3: 上述结论的投资含义是什么？
+上述结论的投资含义是，在大家过度悲观的时候投资机会就来了，有一些市场信号我认为应该紧密关注，比如股债相对表现，港股做空比例，高风险股票溢价和
+美元
+中资债信用利差等。
+数据来源：Wind,Bloomberg,Barclays
+
+--------------------------------
+
+Article No. 10
+A Perfect Timing to Short Duration, Again
+2017-05-02 GlobalAssetAllocator
+
+中美4月PMI都出现回落，但这毫不令人意外，早就反映在价格里
+美国花旗经济惊喜指数大幅回落，市场预期已经调整
+但经济数据在春季出现疲弱是well known pattern，所以债市并没有什么反应
+经济会在2季度出现强劲反弹，亚特兰大联储GDPNow目前对预计美国2季度GDP增速是4.3%
+美债投机头寸惊天逆转，而美债收益率只下行了40bp。美债多头和去年6月英国退欧的时候差不多，但收益率高了90bp，美债均衡利率已经永久性上移了
+目前的经济基本面、技术面和情绪面对于短久期来说太完美了，只要法国大选第二轮不出现黑黑黑天鹅
+说下A股，我关注的指标显示，投资者信心和风险情绪现在仍是极度的悲观，技术上超卖。同时，企业利润增速的高点可能已经过了，但未来会保持平稳的较高增长，不会出现断崖式下跌。全球各地区的earning revision非常强，市场正接受盈利复苏的事实。A股可能正处在年内低点。
+ 
+风格上来说，目前投资者普遍对小盘股非常悲观，但未来1-2个月，创业板可能会出现一波跑赢主板10%-20%的行情
+
+--------------------------------
+
+Article No. 11
+准备进入再通胀交易2.0
+2017-04-24 GlobalAssetAllocator
+
+法国大选出现黑天鹅的概率已经基本可以排除了（
+
+--------------------------------
+
+Article No. 12
+【读者投稿】2017年宏观经济分析和大类资产配置建议
+2017-04-14 GlobalAssetAllocator
+
+作者介绍：赵禹朴，男，经济学博士。曾供职大型跨国企业外汇风险管理部门，负责全球宏观经济研究和货币交易。历任研究员，研究部主管。现供职某FOF基金，负责大类资产配置研究工作。作者微信zyp711605，欢迎大家交流。
+
+--------------------------------
+
+Article No. 13
+高盛中国团队在美国路演的反馈（转）
+2017-04-12 GlobalAssetAllocator
+
+但在热身A股
+We met with a number of fixed income and equity investors in North America last week discussing China economics and markets. Our key takeaways from the trip are summarized below:
+Investors are encouraged by the current upswing in the Chinese economy, especially as measured in 
+In terms of the short-term outlook, key topics of discussion included the PBOC’s policy stance and the trajectory of PPI. While many believe that the PBOC will 
+While there is interest in sectoral and tactical investment opportunities in China, general enthusiasm in undertaking China risks ("long" or "short") seems relatively low at this point. This reflects both a significant reduction in the perceived 
+Most investors seem to agree with our view that positive reflationary dynamics should remain supportive for regional equities but ebbing growth momentum and several macro risks (which were latent in 1Q but could come back in focus) suggest positive but modest returns ahead.
+Investors seem receptive to our China 
+Briefly onto other regional equity markets:
+On India, investors are generally constructive on a medium-to-longer term view but feel valuations look expensive in the near term. Our recently launched 
+On Korea, the discussion focused on balancing the positives from upcoming political change and potential chaebol reforms with the rising geo-political tensions (regarding China-Korea relations) and a potential North Korea conflict.
+The worry about a possible sharp RMB devaluation has clearly subsided thanks to much 
+Overall, many investors now see a fairly stable $/CNY this year. Particularly for those with a neutral (or bearish) USD view, they tend to feel that the bilateral exchange rate is unlikely to break 7.0 by year end. Potential inflows due to the domestic bond market’s 
+The evolving US-Sino relationship is another much-discussed topic. Many believe that a 'trade war' can be averted given that there are many other potential “
+Another uncertainty that investors often expressed is with regard to China’s 
+
+--------------------------------
+
+Article No. 14
+山雨欲来风满楼
+2017-04-07 GlobalAssetAllocator
+
+3月上旬以来，美债、黄金和日元等避险资产上涨
+跨资产隐含波动率低到不忍直视
+南华商品期货指数一年以来第一次跌破120天均线，商品出现大幅下跌是经济复苏和再通胀最大的风险（
+港股隐含波动率跌至历史低点，too much complacency
+港股rerating表明市场已经price in了中国经济从ugly deleverage回到beautiful deleverage，最容易赚的钱已经过去了
+拥挤的头寸意味着港股近期面临较大的调整风险,请系好安全带
+GAA在潮汐社区注册了，大家可以在上面向我提问噢
+GAA在潮汐社区注册了，大家可以在上面向我提问噢
+GAA在潮汐社区注册了，大家可以在上面向我提问噢
+
+--------------------------------
+
+Article No. 15
+全球政策不确定性高涨，等待风险释放
+2017-03-25 GlobalAssetAllocator
+
+ 
+Le Pen在法国总统大选第一轮民调中保持领先，几乎将肯定进入第二轮。法国大选规则，第一轮得票率超过50%的候选人直接当选，否则得票最高的两名第二轮PK。
+全球政策不确定性在历史高点，市场隐含波动率却很低。
+拥挤的再通胀交易头寸unwinding，国债利率回落，在重大风险事件之前，投资者一般不愿意拿大头寸。
+花旗经济惊喜指数处于高位，投资者预期较高，而未来一两个月经济数据可能一定程度走弱，酝酿一场4月风暴。
+6-12个月的周期性观点没变，风险情绪和信心变化只是小插曲，不会成为主旋律，宏观还是决定因素，不同意本轮周期已到尽头的观点，全球复苏还有空间（
+法国大选很难成为真正的黑天鹅，相比Brexit和Trump这种close call，Le Pen在针对第二轮投票的民调中落后非常多。除非主要竞争对手在此期间发生惊天丑闻，她的胜算目前看很小。
+Le Pen的National Front目前在议会的席位只有2个，即使她真的赢了，在后面的议会选举中，National Front的席位也很难超过10%，意味着她需要和主流党派一起组阁，将极大限制她的极端政策倾向。
+假设她真的发起退欧公投，和冷漠的腐国人民不同，法国人骨子里是相信欧元和欧洲一体化的。记得欧债危机的时候，一个欧盟官员被问德法为何愿意花这么高的救助成本就希腊、爱尔兰，他说The eurozone is a political project, not an economic one.
+
+--------------------------------
+
+Article No. 16
+动物精神回来了？
+2017-03-18 GlobalAssetAllocator
+
+全球经济预
+美国通胀预期上升
+密歇根大学消费者信心强劲
+大企业CEO对未来经济信心提升
+发达国家资本支出计划增加
+主要国家国际贸易形势回暖
+纽约联储美国经济衰退概率很低
+花旗经济惊喜指数处于高位
+花旗通胀经济指数跳升
+主要国家未来6个月股价信心
+AAII投资者多空指数
+
+--------------------------------
+
+Article No. 17
+Q&amp;A:本轮经济复苏的可持续性
+2017-03-01 GlobalAssetAllocator
+
+Q1：这一轮经济复苏还能持续多久？
+A：
+比大多数人想像得长。
+但是，过去几年造成通缩和经济下行压力最重要的两个负面因素，商品价格下跌和货币金融条件过紧，现在已经完全消失，甚至成为了经济复苏的动力。大宗商品价格价格上涨将传导至制造业投资端（图一），中美两个最大经济体引领synchronized全球复苏（图二），这轮复苏会比很多人想象的更长更强。
+图一：美国能源挖掘行业投资和油价
+图二：中国和美国制造业PMI
+Q2：市场是不是已经price in了比较强劲的增长了？
+A:在一定程度上是的，但
+经济基本面还有positive shock的空间。
+图三：中美欧经济惊喜指数
+图四：周期股相对防御股与制造业PMI
+尤其是国内市场，目前股债的相对表现并没有匹配经济好转（图五），这反映市场认为复苏持续性不强，投资者信心处于历史低位（图六）。正面的预期差还有空间。
+图五：国内股债表现和财新PMI
+图六：投资者信心指数和A股
+Q3:如何看待近期reflation trade熄火？
+A：
+reflation trade是
+回调，但不是反转。
+图七：全球风险情绪处于高位
+但那将是今年最好的择时机会，高盛做了一个研究，统计历史上不同风险情绪和PMI情景下，股票的表现（图八）。整体来说，在市场呈现高风险情绪时，股票随后3个月和12个月的表现会低于市场处于低风险情绪时，the well known Pendulum Effect（
+图八：不同风险情绪和PMI情景下，股票的表现
+Q4:企业盈利会继续复苏吗？
+A：会
+图九：美股上市公司利润率反弹
+图十：美股EPS增速回升
+图十一：A股EPS预期改善
+Q5: 债券熊市结束了吗？
+A：很可能没有。
+图十二：国债利率与PMI新订单
+Q6: 经济复苏最大的风险来自哪？
+A：最应该担忧的是大宗商品价格出现大幅度下跌。
+图十三：商品价格增速高峰已过
+图十四：钢材库存低于历史区间
+貌似好久没上鸡汤了：Never listen to other opinions. Even if it occasionally helps on a trade or two, listening to others invariably seems to end up costing you money—not to mention confusing your own market view...If you combine two traders, you will get the worst of each.
+Jack D. Schwager
+
+--------------------------------
+
+Article No. 18
+GAA读paper之Five Myths About Fees
+2017-02-20 GlobalAssetAllocator
+
+推荐假期读到的一篇发表在Journal of Portfolio Management的paper，Five Myths About Fees，作者是Barclays Global Investor的研究人员。他们探讨了五个关于委外投资管理人费用的谜题。这几个问题看似结论非常明显，但作者指出我们根深蒂固的想法可能存在误解。
+谜题一：管理费越低越好。FEES SHOULD BE AS LOW AS POSSIBLE.
+投资人的目标函数不应该是最小化管理费，而是期望费后alpha。这有两个含义，第一，管理费应该显著低于管理人的期望alpha，对于能产生高alpha的管理人，给高一点管理费能增加投资人的效用。第二，投资人alpha的波动率，即业绩可持续性，也应该纳入考虑。在期望alpha同样的情况下，业绩可持续性更高的管理人应该获得更高的管理费。
+谜题二：业绩报酬永远比固定管理费好。INCENTIVE FEES ARE
+业绩报酬有优点也有缺点。优点在于将业绩和费用关联，保证投资人和管理人利率一致。缺点在于，对于管理人带来了收入的不确定性，可能影响管理人在人力、研究、基础设施的投入，这可能在长期内不利于投资人管理能力提升，同时这也不利于投资人的预算管理。业绩报酬的另一个缺点是，由于业绩报酬具有期权属性，可能促使管理人加大风险偏好，追求高波动，以增加业绩报酬的期权价值，这可能是投资人不愿看到的。
+作者构建了一个简单的模型，证明业绩报酬和固定费用孰优孰劣取决于投资人选择好投资经理的能力。对于选择能力越弱的投资人，业绩报酬更好，反之更应该选择固定费用。怎么理解？一个极端的例子，如果投资人拥有完美的选择能力，他能选到业绩最好的投资经理，使用固定费用就可以降低本来可能很高的业绩报酬。
+谜题三：高水位永远有利于投资人。HIGHWATER MARKS ALWAYS HELP INVESTORS
+高水位可以避免投资人重复付费。但高水位在某些情况下容易引发管理人下重注，比如下图的第二年，如果产品NAV不能增加5$管理人就拿不到费用，这可能导致管理人寻找更高风险高收益的机会。甚至，在水位非常高的时候，管理人可能有动力直接关门，这时投资人如果再找一个新管理人，又会重新开始收费。作者指出，投资人应该紧密关注面临高水位管理人的行为。
+谜题四：对冲基金是alpha来源，应该获得更高费用。HEDGE FUNDS ARE WHERE THE ALPHA IS;THEY DESERVE THEIR HIGH FEES
+作者首先指出，最近几年投资人对alpha的追逐更加激烈，对冲基金的收费也在提高，但alpha是零和游戏，有很多对冲基金是不值高收费的。另外，很多传统机构也开始提供类对冲基金产品，并且更加透明，对冲基金并不是唯一alpha来源。
+谜题五：投资人总能区分Alpha和Beta，并分别付费 。WE CAN ALWAYS SEPARATE ALPHA FROM BETA, AND PAY APPROPRIATE FEES FOR EACH
+除了市场中性策略外，大部分产品都是alpha和beta的混合。对long bias的产品，投资人如果不能找到准确的投资基准来衡量beta，那很有可能overpay。
+
+--------------------------------
+
+Article No. 19
+我关注的股市“黑嘴”
+2017-02-14 GlobalAssetAllocator
+
+蹭个刘主席的头条，有同学问我，平常读哪些人的文章报告，下面是我follow的市场观察家，欢迎底下留言补充。
+Howard Marks
+Ray Dalio
+Clifford 
+Asness，
+Jeremy 
+Gratham，
+Bill Gross和Jeffrey Gundlach
+Jan Hatzius，Charels 
+Himmelberg，
+马骏，徐小庆，
+还有一些买方和独立研究机构/人士也可以看看，比如Rick Reider(Blackrock)，BCA，James Bianco，Rob 
+Arnott
+
+--------------------------------
+
+Article No. 20
+怎样才算是好的量化选股模型？
+2017-02-07 GlobalAssetAllocator
+
+1.
+数据挖掘最小化，降低参数优化次数，这是最重要的，不然结果再好也是自欺欺人。
+2.
+不同组别间收益单调递增，因子
+IC
+超过
+0.1
+，表明选股因子有效。
+3.
+在不同时期持续产生超额收益，且超额收益与market beta无相关性，季度胜率超过
+80%
+，月度胜率超过
+70%
+，表明业绩可持续性强。
+4.
+回测结果
+information ratio
+打对折仍能有显著超额收益，代表足够的安全边际。
+5.
+年化
+Turnover
+不超过
+400%
+，防止过高的交易成本。
+6.
+个股交易量不高于单日成交量的
+1%
+，具有较高的市场容量。
+
+--------------------------------
+
+Article No. 21
+中国经济跟踪：Tailwind from other side of Pacific Ocean
+2017-01-25 GlobalAssetAllocator
+
+四季度GDP环比季调年化增速达到6.8%，虽然较前两个季度有所减速，但考虑到下半年的信贷和地产政策的收紧，这比我预想得好(
+再通胀背景下，名义增速大幅回升，造就短端利率上行压力，假降准真加息套路深。（
+我觉得在信贷和地产走弱的情况下，经济还比较resilient的原因主要有两个，第一个原因是外部需求的好转，由于去库存和强金融条件的拖累减弱，美国经济3季度GDP增速达到3.5%，我预计美国这一轮小周期会持续到明年（
+二是原因是企业投资出现好转迹象，下半年以来制造业投资明显提速。工业企业和上市公司盈利和盈利预期的好转传导至投资端，这是符合经济规律的，（
+后面还是看不清，一方面国内因素指向经济继续减速，但另一方面强劲的外部需求还会持续。
+对资产价格的影响，股票tactically比较中性，技术面不太好看、宏观偏负面，加上流动性边际收紧，trump trade回调全球风险情绪降温。但是，strategically A股仍是牛市中前期，这个判断conviction很高，之前也说过很多，所以没有杠杆的real money应该buy on dips，建立长期头寸。
+债券还是很负面，图很难看，技术上没有出现底部信号。基本面上库存盈利周期没有走完。估值上，近期长端利率上行大部分是资金成本推动的，期限利差并没有放宽很多，因此长端的value没完全出来。MLF加息确认政策拐点，10bp不是事儿，但信号效应太强了，长端利率反映未来的短期利率以及一部分期限溢价，当前利率曲线discount的是PBOC很长时间都不会加息，这次态度变化对一些相信长期零利率的市场人士是个很大的shock，这个预期差可能导致利率曲线长端大幅重定价。
+我觉得PBOC此举有两个考虑，一是降杠杆控风险背景下，不希望实际利率下降太多。大家可以去看看马骏2013年3月的文章《中国负实际利率已很严重，加息不宜再迟》，认为负实际利率是刺激资产泡沫的主要原因，他给出了四种实际利率的测算，其中两种是贷款利率-PPI和按揭利率-房价涨幅，按这两个算法现在实际利率肯定是负区间了。二是提前为鹰派联储做准备，管理市场预期，毕竟今年3次加息的可能性在升高。
+祝读者们新春快乐，节后再见！
+
+--------------------------------
+
+Article No. 22
+Business Cycle 101：周期，什么周期？
+2017-01-09 GlobalAssetAllocator
+
+前段时间一个以周期论著称的分析师离世再次引发大家对周期的讨论。在（
+但是，当我们在谈论周期时，我们具体指的是什么。换句话说，哪些周期才是做投资需要关注的。我觉得投资者应当重点关注的当属信贷周期、盈利周期、投资周期、存货周期和利率周期，并且理解这几个周期之间的内生性互动，如下图所示。
+信贷周期最重要，没有之一。
+美国信贷周期
+中国GDP对信贷冲量的敏感度
+盈利周期是经济周期的核心。
+中国盈利周期
+投资周期是信贷周期的另一面
+美国盈利周期和投资周期
+中国盈利周期和投资周期
+存货周期与投资周期类似，但需要注意的是存货是存量概念
+可以看到，过去两年去库存大约砍掉了发达国家GDP增速0.2个百分点，砍掉了美国0.6个百分点，差不多是潜在增速的1/4，很大的负面影响。这些负面影响会在2017年消退，为全球增长带来一些tail wind。中国也面临类似的情况。
+发达国家存货周期
+中国存货周期
+利率周期既是滞后的又是领先的
+美国利率周期
+中国利率周期
+最后说一下期限的问题，做投资关心的是3-6个月的事，做资产配置根据资金性质可以看1-3年，超过3年的长周期除非是做学术研究否则可能意义不大。
+最近写作灵感爆棚，怀疑我的天赋加点是不是适合去干卖方啊
+20161124 GAA 2016 Retrospective: Sense and Sensibility
+20161207 中国经济跟踪年终特别版：GAA's China Economy Chartbook
+2011214 鸡汤一碗：我信奉的投资哲学
+20161221 对近期国内外市场的comments
+20161228 再通胀：The end of the beginning（转）
+
+--------------------------------
+
+Article No. 23
+再通胀: The end of the beginning?（转）
+2016-12-28 GlobalAssetAllocator
+
+之前在(
+这个问题对研判国内利率市场也很relevant，实际上可以观察到，相比之前10年，国内外利率最近两年相关性明显加强，在几次大的风格变化中，国外利率经常有一定的领先性。
+其原因在于国内货币政策对外部环境敏感度的不对称性，当国外经济体处在降息周期，资本倾向流入，央行通过干预汇率提高准备金率可以锁住超额流动性，理论上子弹是无限的。但美联储进入加息周期（从Fed Tapering开始算），资本倾向外流时，央行的筹码却是有限的，需要相机抉择不断找平衡，管理预期，难度系数提高很多。
+换句话说，中国的EM属性在提高，紧跟当前全球宏观的主题对研究国内利率越来越重要，我认识的很多EM analyst一半的时间都花在看美国。未来如果对海外主要经济体没有概念，可能会发现原有框架要跟上市场节奏越发吃力。
+今天贴下top of mind对高盛和PIMCO两名inflation trader／PM的访谈，他们两人都认为reflation trade还有空间。读者应考虑他们可能的bias 。
+温馨提示：图片点击放大看更清晰…
+年终送礼环节：微信回复我，the economist who coined the term “helicopter drop” in 1969 for central banks dropping money from the sky to raise citizens’ incomes. 题目很简单，最快回复正确答案的读者，GAA送一本亚马逊上100$以下的书&-&
+
+--------------------------------
+
+Article No. 24
+对近期国内外市场的comments
+2016-12-21 GlobalAssetAllocator
+
+在上一篇鸡汤中（
+Trump当选之后，股票市场风险偏好大幅上扬 
+投资者对美股看多情绪加重
+但是smart money缩减股票敞口
+2017年美国经济基本面会比2016年好得多，即使不考虑Trump的财政刺激，GDP增速也会到2.4%以上，较2016年提高0.8%，headline通胀上到2.3%，较2016年提高1%
+目前美债投机净头寸非常空
+技术上，利率向上突破
+美元突破2015年以来的箱体，上面没有阻力，上涨动能强势
+强势美元拖累包括港股在内的EM，投资者仓位中性
+国内债券市场近期出现大幅调整，国债技术上进入下行趋势
+这几天央行注入的流动性缓解了债券市场的fire sell，但支持利率上行的基本面因素，通胀、汇率、企业盈利和库存周期恐怕还没走完，在我看来
+目前羊群效应还未发出反转信号，在更多技术指标确认底部之前， better curb your enthusiasm
+受债券市场和汇率市场风险打压，国内股票市场情绪有所回调
+Wish all my readers Merry Christmas and Happy New Year!
+
+--------------------------------
+
+Article No. 25
+鸡汤一碗：我信奉的投资哲学
+2016-12-14 GlobalAssetAllocator
+
+有读者让我写写投资理念，其实以我的从业年限写这个题目有点不自量力，但通过回顾历史和学习他人经验可以弥补十之七八，这一点我自认做得还不错。今天中午和老同事相聚讨论今年以来观察市场的心得，一个感觉，投资理念太重要了，你选择相信什么可以很大程度决定你的投资业绩。下面几条是我信奉的投资理念，不代表绝对正确，纯粹是我自己的偏好，大家随意看看，反正是鸡汤不用特别较真。
+分散化是唯一的免费午餐
+资产配置决定90%的风险和收益。
+估值是决定长期回报的第一要素。
+周期永远存在。
+技术、情绪和市场仓位是短期择时的关键考量。
+全天候（all weather），无限制（unconstrained）。
+不要over bet，确定风险预算。
+每一个头寸都设置严格的止损线。
+p.s. 关于人脑运作和投资的一点冷知识。
+
+--------------------------------
+
+Article No. 26
+中国经济跟踪年终特别版：GAA&#39;s China Economy Chartbook
+2016-12-07 GlobalAssetAllocator
+
+一些读者问我要中国经济分析框架，下面这些图我每天都要看一遍
+回复关键词Chartbook获取PDF版本
+
+--------------------------------
+
+Article No. 27
+GAA 2016 Retrospective：Sense and Sensibility
+2016-11-24 GlobalAssetAllocator
+
+2016年对macro strategist是最好的试金石，基本面、政策面、政治事件和市场情绪互相交织影响，完全是双倍经验练级的节奏，就像杨过在寒玉床上练功，一年顶三年。这一篇回顾过去一年的市场走势和几个比较大的call，算是个人总结，我给自己打80分。
+美国经济反弹，全球分化继续 
+今年年初，美国经济动能急速回落，制造业ISM一度掉到48，金融市场尤其是信用市场十分恐慌，垃圾级信用债OAS一度放宽到750bps，要知道信用市场对经济衰退的预测准确率是高过很多经济学家的
+（
+）
+，主要理由是非能源企业利润率没有大幅下滑，劳动力市场仍然强劲，
+（
+）
+2季度开始，随着这两个负面因素的影响消退，美国经济动能重新走强，美联储再度转向鹰派。相对的，欧洲日本还没有走上自我实现式复苏，货币当局不得不加大宽松措施。Global divergence is back(
+经济数据、货币政策、政治事件驱动风险周期
+2016年海外市场被几个重大事件切割成几个明显的risk cycle。
+去年底今年初，市场笼罩在人民币汇率政策的不确定性和美国经济衰退担忧中，（
+2季度，市场进入risk on模式，信用利差急速收窄（
+但Brexit引发的sell off仅仅持续了几天，在货币政策托底和稍显稳固的经济动能支持下，风险偏好再度回归（
+）。但主要政策制定者开始意识到货币政策的极限，并公开讨论大规模财政刺激的可能性。而债券估值太贵，在财政刺激面前将非常脆弱，一些在市场上很有影响力的宏观基金经理开始看空发达国家国债（
+2016/10/27 全球市场展望
+）。
+11月9日，Trump意外赢得美国大选，民调结果的biasness再次显现无疑，金融市场陷入恐慌，当天Nikkei一度下跌了6%。但随后市场的走势与Brexit如出一辙，因为风险已经很大程度被price in，充裕的流动性和好转的经济动能意味着很难出现趋势性熊市。反而是债券市场迅速reprice对财政刺激的预期（
+美元牛市没有结束，错过
+黄金石油
+基于对美国经济复苏的conviction，我一直是个美元bull（
+对于石油，给了投机头寸作为反指过大的权重
+，是今年一大教训
+中国周期性经济复苏，通胀触底 
+由于工作性质，中国经济以前不是我研究的重点，读一些卖方的宏观研究报告常常令我非常沮丧，因为我看不到完整的分析框架，很多文章热衷于一字一句做政策解读。在我看来，Core可能会有一个长期的战略规划，但对中短期经济和市场的影响几乎可以忽略，对于投资者relevant的政策决策都是相机抉择的。因此，中国经济是完全可以纳入已有分析框架的，只是有些时候需要针对中国数据特点做些微调。中国确实处在潜在增速下行的特殊期，但周期对市场的影响仍是巨大的，只用一个L型解释所有未免太容易了。
+今年中国经济的主线是，去年底今年初货币宽松、信贷放松、
+汇率贬值、
+，
+，
+，
+ ，
+）
+看空国内利率债，
+看好A股和H股，
+人民币不会大幅贬值
+这是上一个观点的衍生。这个公众号发的第一篇文章就是写对利率债偏空的看法（
+基于同样的
+，
+我对人民币的观点比市场更加bullish，中国是对外净债权国，不是一般的EM，赌中国发生国际收支危机的可以洗洗睡了。虽然经济整体处于下行周期，但只需要RMB小幅贬值来纠正以前过紧的货币条件，一次性大贬会对企业B/S，居民信心以及投资者情绪造成很大的冲击，PBOC也拥有充足的弹药库（外汇储备+类资本管制）来把控贬值路径。可以观察到最近即期贬得很多，也没有产生恐慌情绪，因为第一PBOC的策略很清楚，对一揽子有效汇率稳定，passively对美元贬，市场也很理解，不确定性小了很多；第二没有之前企业还外债那样集中的大规模outflow，无非是一些居民的零散投资需求；第三逐步小幅贬值对稳增长和抗通缩的传导作用非常明显，所以市场能看到贬值不是无底洞，所谓的均衡汇率水平是非常虚无缥缈的，边际变化才是what really matters（
+不知不觉这个公众号写了快一年，最大的收获是认识了很多高水平的同业读者、前辈大佬，和他们的讨论让我受益匪浅，2017年继续约嘛？
+GAA 2016年所有历史文章可以通过微信菜单找到
+
+--------------------------------
+
+Article No. 28
+美债抛售何时休？
+2016-11-22 GlobalAssetAllocator
+
+We don’t look for our investments; they find us. Howard Marks的名言。And they did. 过去两周的发达国家国债大幅sell off，修正了此前利率市场
+财政刺激的under pricing
+之前market Implied加息路径太低了，经过最近的reprice，12月加息概率到了100%，明年加息2次，已经比较接近DOTS了
+BEI也反映Trump经济学的通胀预期，虽然10y BEI仍然低于联储通胀目标，但近期的涨幅对于目前仍停留在想象的财政刺激来说，已经很慷慨了。
+技术上，美债呈现
+在我看来，本轮美债抛售最坏的时候可能已经过去了，目前的利率水平大致反应了基本面。后续的发展取决于明年美国增长和通胀会不会超出目前已经比较bullish的市场预期，进而促使联储上调加息预期，以及Trump经济学的fiscal package会不会显著超出目前的预测，触发长端expected inflation和inflation premium进一步repricing。我的感觉是，如果Trump不掉链子，明年10年期美债收益率的高点可能在2.5-2.6%附近，对应本轮美国经济动能扩张的高点。
+明天会发一篇2016年的年度市场回溯和个人总结，敬请期待。
+
+--------------------------------
+
+Article No. 29
+是时候大举配置新兴市场了吗：The Great EM Debate
+2016-11-09 GlobalAssetAllocator
+
+在过去多年持续跑输DM后，EM今年终于逆袭，EM是不是到了一个大拐点？如果答案是Yes，这也许是未来两年最大的一个beta机会。我看到市场人士的观点针尖对麦芒，比较极端。
+正方：EM将迎来牛市的原因有五个（桥水、PIMCO等）
+一，EM股票的绝对估值和相对估值都很低，具备牛市的起点，EM本币债券提供较厚的real carry。EM资产很有可能成为追逐收益的下一个选择。
+二，EM的盈利基本面已经开始有起色。受大宗商品供给泡沫和中国需求放缓的影响，EM公司净利润率过去几年遭遇断崖式下跌，曾一度跌到DM下方。但随着EM这几年的再平衡，
+三、EM国家宏观基本面最差的时候已经过了，经济再平衡取得进展。汇率是投资EM很重要的考虑因素，从EM汇率偏离PPP的程度，REER和出口份额关系看，EM的汇率已经overshooting，EM ex China汇率更可能升值而不是贬值，尤其是相对非美货币。
+近期EM PMI 明显好过DM, IMF等机构预测EM 相对 DM的 GDP增速未来几年将回升。
+主要经济体都面临扩张财政赤字的压力
+四，技术上看，EM突破了下行通道，近期的动能也很强，附近没有很强的阻力位。
+五，投资者仍然低配EM，全球股票基金对EM的敞口远低于EM在指数中的占比，这些position normalize会带来资金流入。
+‍
+反方：too early to call a trend（高盛、BCA等）
+一，估值从来都不是择时的工具，EM的discount反映
+整个EM面临的
+Total Debt to GDP ratio
+二，EM近期的盈利好转很大程度源于大宗商品价格反弹，但如果美元再升值，
+对国内投资者relevant的一点是，港股过去一直是被当成EM trade的，所以能观察到港股相对表现和美元的负相关性。接触到的一些机构投资者提到，对港股保持谨慎的一个原因是，虽然过去10年港股一直都便宜，但每次跟着反弹进去吃了不少亏，便宜但不意味着不会更便宜。这可能miss了港股的EM属性，如果EM是大的反转，港股应该是国内投资者表达观点的好工具。
+前几天提到
+
+--------------------------------
+
+Article No. 30
+全球市场展望
+2016-10-27 GlobalAssetAllocator
+
+上次求的文献找到了，感谢热心读者，安利一句，人大经济论坛的论坛币比黄金还保值...
+最近太忙没时间写东西，这是最近给一个客户做培训的材料，不代表任何投资建议额，谢绝转载
+
+--------------------------------
+
+Article No. 31
+港股：Long Anticipated Correction
+2016-10-13 GlobalAssetAllocator
+
+港股技术上呈现比较严重的超买，正如反转指标和羊群效应指数显示的。这些指标在港股历史上有很高的正确率。
+全球风险情绪周期正处在又一次risk off区间，Brexit，美国大选，美国货币政策，日本货币政策都是不确定性的来源，港股对风险事件一向是非常敏感的。
+强美元收紧香港的货币条件，美元牛市期间，港股的相对表现都是很弱的。近一个月美元的上扬对港股形成了打压，
+着眼中长期，在多年跑输其他股指后，港股技术上正在酝酿大的reversal，长期向上趋势正在形成。
+PBOC需要人民币managed depreciation，来放松货币条件，国内充裕的流动性只有为数不多几个、合法的走出去通道，港股通是最简单、最容易操作的。港股通总额度取消后，南下的flow有可持续性。
+国内企业利润改善还有空间（图五），为港股提供基本面支持。
+我公司有港股绝对收益产品，高分红低波动，欢迎有兴趣的机构金主与我联系
+
+--------------------------------
+
+Article No. 32
+Bad Habits and Good Practice(转)
+2016-10-10 GlobalAssetAllocator
+
+https://www.aqr.com/library/journal-articles/bad-habits-and-good-practices
+AQR大牛Antti Ilmanen从行为金融角度阐述投资里面的3个坏习惯。
+第一，追逐过去几年的赢家，往往遭遇均值回归带来的reversal。
+第二，低分散化，比如权益风险太高，home bias等。
+第三，一直处于安逸区，舍弃某些投资工具和方式，比如绝对不碰衍生品，不加杠杆等硬性规定会失去一些投资机会。
+对这3个坏习惯，他们一一提出了解决方法。
+
+--------------------------------
+
+Article No. 33
+中国经济跟踪：Muddy Water Ahead
+2016-09-30 GlobalAssetAllocator
+
+今年以来，中国经济最大的主题是工业部门的再通胀。在货币宽松和汇率贬值的作用下，企业部门面临的通缩获得一定程度缓解。央行5000户工业企业调查显示，产品销售价格跟随PPI回升（图一），企业盈利回升的势头还有空间（图二）。
+‍
+图一
+图二
+通常，盈利好转会伴随固定资产投资意愿增强，但不知道出于什么原因，央行已经不再更新固定资产的调查结果（图三）。
+图三
+基于A股上市公司数据显示，资本支出预期确实跟着盈利在好转（图四）。
+图四
+比较让人意外的是，企业贷款需求和PPI出现了背离（图五）。一个可能的原因是，政策不确定性转化为了对reflation不可持续性的担忧（图六）。上半年决策层在经济政策沟通上确实有让人费解的地方，当然
+图五
+图六
+就未来几个月看，目前的证据是比较mixed的。一方面，前期宽松的效果还在发挥余热，但毫无疑问正进入后半程（图七）。另一方面，房地产政策的边际收紧将对销售和新开工产生负面影响（图八）。
+图七
+图八
+如果没有私人部门投资接力，未来两个季度经济会一定程度减速，但完成全年的增长目标没有问题（图九）。广义通胀继续受益于前期宽松和基数效应将继续回升（图十）。进一步的货币宽松短期还是看不到的，这一点已经是市场共识了。
+图九
+图十
+大家节后见！
+
+--------------------------------
+
+Article No. 34
+再通胀2.0：等待下一场范式转移
+2016-09-20 GlobalAssetAllocator
+
+1933年3月4日，罗斯福就任美国总统时，美国经济已经历了4年多的经济衰退和通货紧缩。这促使罗斯福采取了非常激进的政策应对，4月19日
+托马斯修正案授权总统发行最多30亿美元不以黄金back up的纸币，
+兑英镑贬值30%。同样重要的是罗斯福高超的沟通艺术，他不仅通过炉边谈话反复向公众解释政策含义，就连剧院里放电影之前都要先放一段视频歌颂一下罗斯福新政，
+将再通胀的理念深深植入民众脑中（想起盗梦空间），导演了一场范式转移（Regime Shift）。
+美元兑英镑贬值30%，可交易商品价格上涨
+货币供给迅速恢复
+通胀预期
+回升
+上市公司盈利好转，股票估值扩张
+目前的宏观环境经常被用来与大萧条类比，主要经济体面临70年一轮长债务周期的拐点。再加上20年一轮的大宗商品供给泡沫，更令通缩风险雪上加霜。
+70年一轮的长期债务周期
+20年一轮的商品供给周期
+6月Brexit的时候，美国10年期国债收益率一度跌至1.5%，期限溢价再次跌入负区间，隐含的均衡利率不到2%，已经price in了实际利率长期维持在零附近。
+一些很有市场影响力的宏观基金经理觉得利率的底部已经出现。
+上一次国债利率到达这么低的水平是1945年，但那时去杠杆进程已经结束，新一轮的再杠杆周期正在酝酿。
+低利率政策的弊端确实很明显。QE最主要的再通胀传输渠道——财富效应越来越弱，富人的边际消费倾向太低，收入不分配对社会阶层的稳定也造成了巨大威胁，民粹主义甚至在最自由化的美国也找到了土壤。
+银行体系深受低利率荼毒。净利差大幅收窄，银行股成为弃儿，市净率相对全市场折价一半。这不利于银行的放贷意愿，阻碍企业资本支出和生产效率提升。
+大型银行净利差持续收窄
+‍
+                          银行股跟随利率持续走低，市净率相对全市场打5折
+2010年以来，财政政策对经济一直是拖累，但近期主要政策制定者正意识到财政政策在再通胀任务中不可或缺。将通胀预期提高到4%也正被讨论（见伯南克最新博客）。日本有可能领导这一次的形态转移，至少超长端日本国债对此有所期待。
+
+--------------------------------
+
+Article No. 35
+全球均衡配置QDII FOF策略
+2016-09-06 GlobalAssetAllocator
+
+过去的收益不能代表未来
+
+--------------------------------
+
+Article No. 36
+全球房地产市场的更新
+2016-08-31 GlobalAssetAllocator
+
+作为最主要的非流动性资产，房地产投资回报受流动性驱动
+持续的货币宽松已经将办公室资本化率压低至接近07年的低位
+ 
+但这更多反映无风险利率的下行，房地产风险溢价其实并不低，这和07年有显著不同，因此债券比房地产更像泡沫
+目前商业地产的基本面并不差，空置率下降、租金持续增长、债务覆盖率不低
+分国别看，欧洲和日本房地产资本化率最高，香港、新加坡相对还是贵
+2015年美国房地产最大的也是唯一的净买家是外国人，机构都是净卖出，令人浮想联翩
+近期文章列表：
+
+--------------------------------
+
+Article No. 37
+The World  In The Eyes of A Chartist
+2016-08-26 GlobalAssetAllocator
+
+ 虽然观点不一定同意，但论看图，我只服CS Technical Team
+股票
+商品
+信用
+外汇
+债券
+有耐心看到这的同志们，分享一个挺有用的数据库，回复关键词FF
+
+--------------------------------
+
+Article No. 38
+回升的风险偏好
+2016-08-18 GlobalAssetAllocator
+
+政策利率Lower for longer
+经济动能低位反弹
+周期跑赢防御
+追逐高收益，大幅压低信用风险溢价
+风险偏好扩张
+港股空头回补
+但是，自王宝强出事以来，对冲基金已经开始悄悄跑路了
+老司机安利：Onenote+Onedrive for Business+Apple Pencil看书，做笔记，随时记录灵感，用户体验爆表
+老司机安利：Onenote+Onedrive for Business+Apple Pencil看书，做笔记，随时记录灵感，用户体验已经超过纸质书了
+老司机安利：Onenote+Onedrive for Business+Apple Pencil看书，做笔记，随时记录灵感，用户体验已经超过纸质书了
+
+--------------------------------
+
+Article No. 39
+哪些股票更容易有超额收益？
+2016-08-06 GlobalAssetAllocator
+
+接上一篇文章，一些选股的标准：
+低风险，bet against beta，low risk anomaly    
+低估值，均值回归，当然最近几年很suffer
+中期动能强，horizon很重要，太短或太长的动能都有反转的风险
+盈利预期已经很低，但分析师开始上调
+内幕知情人买入
+避免高杠杆
+
+--------------------------------
+
+Article No. 40
+An Update on US Economy
+2016-08-06 GlobalAssetAllocator
+
+ 
+信贷冲量
+企业盈利预计会企稳，就业是滞后指标
+还是那句话，
+global divergence down but not out
+100以上
+
+--------------------------------
+
+Article No. 41
+哪些基金经理更容易赚钱?
+2016-07-31 GlobalAssetAllocator
+
+前两天朋友圈有篇很火的文章，讨论基金经理专业对业绩的影响，很多人都指出那篇文章的方法有点问题，没有排除survival bias，没有控制变量等。
+但这是个很有意思且值得研究的问题，尤其对FOF管理人和委外投资经理来说。相关的实证研究是很多的，我不罗列文章了，反正遇到满足以下条件的基金经理要珍惜:
+高SAT分数学校毕业(
+博士学历，
+在研究上花钱多，
+投资自己管理基金占个人财富比重高，
+扁平化组织结构的投资机构业绩更好，
+是生生世世生生世世生生世世生生世世生生世世
+
+--------------------------------
+
+Article No. 42
+评2季度经济数据：周期性复苏和再通胀
+2016-07-15 GlobalAssetAllocator
+
+ 
+二季度环比季调年化GDP增速7.2%，较一季度的4.8%大幅好转，下半年经济动能预计会略微减速
+名义GDP同比增速8.35%，GDP平减指数同比上升1.65%，PBOC的再通胀措施初显成效
+
+--------------------------------
+
+Article No. 43
+GAA的A股打分表
+2016-07-13 GlobalAssetAllocator
+
+为了方便思考和综合众多信息，做了一个A股的打分表，用于形成主观决策，作为
+先说结论，虽然近几个月A股基本走平，但GAA仍保持乐观。
+技术面-Neutral
+A股在技术形态上已经冲破了主要的下行趋势，形成了底部，但偏一些长期的指标还是比较弱，总体Neutral
+情绪面-Very Bullish
+情绪指标一般都是作为反向指标的，情绪越悲观，越支持多头。国内没有类似AAII的投资者调查，所以GAA都观察看市场implied的情绪，比如之前写过的
+企业盈利-Modest Bullish
+盈利我是市场普遍乐观的，理由之前也写过，
+流动性-Very Bullish
+流动性依然是非常充足的，之前流动性和估值的关系出现了背离，但不会一直持续。Money will find its way, very bullish
+宏观经济-Modest Bearish
+4月到6月间，股票相对债券，创业板相对主板的表现弱于经济领先指标暗示的水平，主要是权威人士的发言引发了经济复苏不可持续的担忧。现在应该说两院应该达成了deal，媒体报道6月信贷数据超过1万亿，经济还是会比较稳，不会太差，modest bearish
+估值-Neutral
+A股是否便宜取决于看哪个市场哪个指标。大盘很便宜，for a good reason?小票还是挺贵。相对债券和房地产，股票绝对不贵。估值总体可以算Neutral。
+英国退欧以来，债券大幅rally，目前估值很贵，技术上也超买。如果主要国家联合整一个大的经济刺激计划，债券是很脆弱的。
+外部风险-Modest Bearish
+英国退欧对欧洲的影响是深远的，未来欧洲的事件风险不会少，还有美国大选，制约全球股票大幅上涨。但好在美国经济短期继续复苏还是有保证的，安倍看来是要出大招，Fiscal expansion funded by central bank(直升机撒钱)来了，外围不会太差。Overall modest bearish
+谁能告诉我为什么今天一下多出这么多粉丝？
+
+--------------------------------
+
+Article No. 44
+GAA读Paper之Measuring the Natural Rate of Interest
+2016-07-09 GlobalAssetAllocator
+
+推荐一篇市场上引用最多的，讲自然利率的文章， Measuring the Natural Rate of Interest，作者
+Thomas Laubach 和John C. Williams是旧金山联储的官员。
+什么是自然利率？
+自然利率（Natural Rate of Interest），又叫中性利率（Neutral Interest Rate）、均衡利率（Equilibrium Interest Rate）或利率中枢(Terminal Interest Rate)。自然利率最早被瑞典经济学家Knut Wicksell定义为There is a certain rate of interest on loans which is neutral in respect to commodity prices, and tends neither to raise nor to lower them.
+现在主流的定义是the real short-term interest rate consistent with output converging to potential, where potential is the level of output consistent with stable inflation。如下图所示，IS曲线和潜在GDP的交点。
+自然利率为什么重要？
+1）自然利率影响政策利率，自然利率对应在泰勒法则中的截距项，即传说中的r*。2）自然利率影响长端利率和债券价格，长端利率无非是预期短期利率和期限溢价之和。3）自然利率影响股票价格，宽松的利率支持股票表现。
+如何估计自然利率？
+最简单的ex post real policy rate，名义政策利率-实际通胀，如果影响资金供需的因素长期稳定，取这个指标的长期平均应该是很好的估计。美国的自然利率大约在2%，所以可以看到泰勒法则的截距项一般默认是2%。
+考虑到经济结构一直都在变化，也许取个10年平均更好。注意到自然利率在不同时期的变化幅度是很大的。其他的估计方法，包括使用HP filter等统计方法获得趋势项。但这些方法都只用到了过去利率的信息，因此叫做Univariate time series estimates。Univariate time series estimates在遇到短期经济变化很大的情况下，例如2008年经济危机，就不准确了。
+LW这篇文章的创新在于，将自然利率当作是不可观察的变量，通过建立自然利率与产出缺口等其他变量经济联系，用Kalman Filter估计自然利率。也就是说，这里面是有经济结构的。LW的结果显示，目前实际自然利率在0附近，加上2%的通胀预期，美国名义利率中枢在2%左右。这意味着只要基准利率低于2%，就仍是宽松的，能够刺激产出缺口收窄。但LW也承认，这个估计的统计误差还是很大，可以达到200bp。因此，估计的结果还是只能参考，主要学习模型的intuition。此外，在自然利率估计误差很大的情况下，央行货币政策倾向于维持较高的inertia，对加息很谨慎，宁愿通胀overshooting。
+http://www.frbsf.org/economic-research/files/Laubach_Williams_updated_estimates.xlsx
+市场隐含的自然利率，5年5年TIPS yield和纽约联储primary dealer调查都在1%左右。2013年之前美联储还是认为名义利率能回到4%，但随着DOTS的不断下调，目前美联储对长期政策利率的预期已经跟市场比较接近了。
+
+--------------------------------
+
+Article No. 45
+What Makes a Good Systematic Trader?转
+2016-07-02 GlobalAssetAllocator
+
+ A systematic trader should be humble, and underestimate their intelligence, skill and luck. Assume your trading will go badly, be prepared for that eventuality, and be pleasantly surprised if it doesn’t. Don’t try anything too clever; it is probably unnecessary and it’s more likely to go wrong.
+Use simple trading rules that have not been over-fitted
+You should be sceptical.
+Be pessimistic. Do not trust back-tests
+assume maximum Sharpes of 0.5 and 0.4 respectively
+set your turnover so you never spend more than a third of the pessimistic expected Sharpe ratio 
+Use Half-Kelly:
+At some point some instruments or trading rules in your portfolio will go badly wrong. Limit your exposure to this by trading the most diversified set of instruments and rules that you can.
+Stay away from low volatility instruments – they’re expensive to trade and dangerous.
+The best systematic traders will be diligent when creating their systems, but lazy when running them.
+Make a commitment: don’t be tempted to meddle,improve or risk manage
+
+--------------------------------
+
+Article No. 46
+Q&amp;A on Risk Parity
+2016-06-28 GlobalAssetAllocator
+
+‍
+Q1：Why Risk Based Strategy?
+A1：一是传统60/40超配股票，不够balance。二是Mean Variance（Maximum Sharpe Ratio,MSR）不靠谱，结果对expected return的估计太敏感， 很明显，根据历史数据估计的预期收益只取决于样本的第一个价格和最后一个价格。采取structure model估计预期收益会提高MSR的表现，但不够好。
+Q2：What Risk Based Strategy?
+A2：
+            1/N（equal weight）
+            
+            
+equal volatility(EV)
+    
+            minimum variance(MV)
+        
+            maximum diversification(MD)
+            
+             equal risk contribution(ERC or RP) 
+            
+Q3：How are they connected?
+A3：如果所有资产return和vol都相同，且两两相关性相同，MSR→1/N。如果所有资产的Sharpe Ratio相同，MSR→MD。如果所有资产vol相同，MD→MV。如果所有资产的Sharpe Ratio相同，且两两相关性相同，MSR→EV。如果所有资产相关性等于某一常数，MD→EV。如果所有资产相关性等于某一常数，RP→EV。
+Q4：When could risk parity go wrong?
+A4：当实际利率（过快）上升时，金融资产都suffer，股债相关性上升，RP失去分散性。因为RP其实更应该叫asset risk parity，而不是economic risk parity，债券的高仓位过度超配了real rate factor，实际上也不够balance。
+Q5：How to improve risk parity?
+A4：Economic factor risk parity。构建互相独立的economic factor，每个factor对组合的风险贡献相同，再根据资产对factor的loading转换为资产的权重。PCA等统计方法是最自然的选择，但PC可能不稳定，且缺乏经济解释。好在PCA并不是唯一的变换方式，可以通过最小化tracking error选择最接近原始economic factor的rotation，形成truly diversified economic factor risk parity。
+Q6：From cross assets risk parity to single assets parity
+A4：Cross assets risk parity很straitforward,但如果应用在single assets（比如股票）上会产生一系列问题。股票个数太多（>200只），常用优化方法不收敛，RP找不到最优解，需要利用特殊的优化方法。MV和MD则会集中在十几只低风险个股上，个股集中度太高，与指数的TE也高。
+
+--------------------------------
+
+Article No. 47
+Brexit Delivers a Blow to Global Economic Confidence(转)
+2016-06-25 GlobalAssetAllocator
+
+Jacob Kirkegaard是PIIE（美国重要智库，水平高出某科院N个档次）的政治经济研究员，GAA一直follow他的文章，他对欧洲各个政治群体的interest和博弈看得很透。这篇文章一个主要观点是Brexit的confidence shock会对私人部门投资造成很大负面影响。GAA很同意，全球经济本来就面临capex不足导致的productivity低迷问题。Capex是需求、投资回报、企业信心和信贷标准的函数，腐国人民这么一闹，这几个因素都是大写的叉叉
+，
+全球
+The surprise 52-48 percent majority of the British electorate voting to leave the European Union, in a high turnout election of 71.9 percent, eliminates any doubt about the democratic legitimacy of the result, as well as any prospects for another referendum on Brexit in the future. As President Obama said, “The people of the United Kingdom have spoken, and we respect their decision.”
+The result will have far-reaching, unpredictable consequences for Europe, the United States, and other economies and political landscapes. For Britain itself, the vote opens cleavages that will be difficult to close, raising the prospect of a breakup of the no longer united UK.
+The English public’s decision to leave the European Union is a frontal assault on the idea of deep political and economic integration and collaboration among countries—in other words, on globalization itself. Political risk will rise across Europe and arguably beyond, making it even harder to convince private businesses to make new long-term investments in a more uncertain world. This severe confidence shock will dampen long-term economic growth prospects and could lead to broader repricing of global asset prices, as a flight to safety ensues. In a fragile, slowing global economy with limited monetary and fiscal policy space, this is a very damaging development—one that could have additional negative political and economic consequences around the world.
+Beyond the British Isles, a potentially weakening global economy will be an additional headache for President Obama and former Secretary of State Hillary Clinton in their fight against Donald Trump, who like European populists will be emboldened by the UK decision to leave the European Union. The negotiations over a Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe, and EU-Japan free trade negotiations, will be put on hold. Additional uncertainty and a rising yen will also cause further problems for both the Bank of Japan and Prime Minister Shinzo Abe’s efforts to revise the Japanese economy.
+Within the European Union, the vote ushers in political turmoil. European leaders are deeply shaken by the public appeal of the deceptively simplistic core argument of the “Leave” advocates, which can be summed up as: “High immigration is bad, it is the European Union’s fault, we have to leave the European Union to reduce immigration.”  Populist, anti-establishment, and anti-immigration parties across Europe can easily repeat that argument. Marine Le Pen of France’s Front Nationale, Geert Wilders of the Dutch Freedom Party, and Germany’s Alternative for Germany (AfD) have already declared that they favor similar referenda in their countries, and they would undoubtedly relish the fight. Because anti-immigration sentiments in many EU countries is even stronger than it is in the United Kingdom, such copy-cat referenda have a good chance of success. In addition, in-or-out referenda in any EU or euro area member would likely command significant public, financial market, and media interest across Europe and the world, aggravating the negative market reactions underway in the wake of the Brexit vote.
+How EU leaders will try to counter such centrifugal forces is an open question, but pushing for more integration would appear to be a risky strategy. Such an approach might fuel the public pressure for more referenda. Instead, the dominant defensive strategy would seem to be for the European Union to make it as hard as possible for the United Kingdom to leave, in order to show voters elsewhere the consequences of exiting. This strategy would not, however, fully remove the increased political risks to European integration raised by the immigration-driven Brexit. A new semi-permanent “exit through anti-immigration themed referendum” risk becomes attached to EU assets, equivalent to the so-called “redenomination risk” that plagued the euro area periphery until the European Central Bank (ECB) introduced a financing lifeline under the Open Monetary Transaction (OMT) program. Unfortunately, there is nothing the central bank’s president, Mario Draghi, or the ECB itself can do about this type of political risk, as only EU politicians can affect it. And unlike in the United Kingdom, euro area members at least will not benefit from any positive exchange rate effect.
+For Britain, the vote has reopened old wounds, aggravated regional antagonisms, and introduced fissiparous tendencies. The regional breakdown is especially revealing, as 62 percent of Scots and every constituency in Scotland voted to remain, just at 56 percent and 11 out of 18 constituencies did in Northern Ireland. Yet in both Scotland and Northern Ireland, participation was lower than expected at just 67 and 63 percent respectively. Wales voted 52-48 to leave with a 72 percent turnout. The enormous upset came in England, where a referendum record 72.8 percent of voters turned out and remarkably every region voted to leave with the exception of London, which went 60-40 for remain.
+The political reality is that Scotland is being dragged out of the European Union despite the wishes of a large majority of Scots. As a result, the Scottish National Party (SNP) has already announced that it would consider a new drive for independence from the United Kingdom. The 62-38 percent margin for remain in Scotland—the largest in any region of the United Kingdom—may speed such a plan.  In Northern Ireland, where all majority Catholic and border constituencies voted for remain, the political fallout is less clear. Were border controls to be reinstated, Irish political party Sinn Fein and others could declare the premises of the Good Friday peace accord broken and seek reunification with the rest of Ireland inside the European Union. Given the strength of unionist support for staying in the United Kingdom, such moves would appear futile in the short to medium term, but not to be ruled out in the long run. Overall, the outcome of this referendum will raise significant questions about the long-term territorial integrity of the United Kingdom itself.
+The large majority support for remain in London, in the face of EU rejection almost everywhere else in England outside areas with high-skilled residents like Oxford or Cambridge, dramatically illustrates the socioeconomic cleavages in England, especially because the most economically challenged northern part of England swung decisively for leave. This voting pattern also suggests the strategy of the remain camp—to focus on the bad economic consequences of leaving the European Union—clearly failed in areas struggling economically. On the other hand, an economically buoyant London may now increasingly see itself as a world apart from the rest of the country, fueling political demands for more political power for its mayor.
+Prime Minister David Cameron has done what he had to do and resigned, his departure taking effect when a new anti-EU leader of the Conservative Party is chosen by October. For now, however, the Conservatives are likely to focus more on their internal political battles than on forging a new relationship with the rest of Europe.  Cameron refrained from immediately launching the Lisbon Treaty's Article 50 process to leave the European Union. The delay deepens and extends the uncertainty over the United Kingdom’s long-term relationship with the rest of the European Union, especially as there is a high risk that any newly elected Conservative leader would want to fight an early general election to secure a fresh democratic mandate for the EU negotiations (and likely defeat a rudderless Labour party deeply split over immigration and Jeremy Corbyn’s leadership). It remains to be seen whether the other EU members will wait for the Conservative Party to sort itself out, however. As the UK economy weakens, so will the negotiating hand of the next British prime minister, and the rest of the European Union will try to quell the risk of political referenda across Europe by pushing for an early initiation of the leave process.
+Ultimately, as a result of this referendum, the Conservative Party will likely move to the right by electing a new leader from the Leave campaign. The deep schism revealed by the referendum inside the Labour Party—which like other center-left parties across Europe in recent years lost most of its traditional core blue-collar supporters to the anti-immigration platform of the Leave Campaign—could also easily result in the ousting of Corbyn. Many in the Labour party will blame him for the outcome and particularly his rejection of any limit to immigration. In the end, Britain’s two major parties may both lose their leaders over this result.
+All told, the effects of the UK vote will be felt across a now more unstable and uncertain world.
+
+--------------------------------
+
+Article No. 48
+Micro vs Macro：全球信用市场的更新
+2016-06-20 GlobalAssetAllocator
+
+美国垃圾级债券YTD回报达到8.5%，从绝对收益、相对收益和风险调整后收益的角度看，都是上半年cross assets的大赢家。
+这反映的是年初信用市场
+对美国衰退担忧的证伪
+。
+对信用市场的一个主要担忧是微观层面公司信用基本面的恶化。
+但是，
+主导
+目前全球经济大的风险还是通缩，主要央行没有收紧货币的条件。虽然企业杠杆很高，但carry稀缺，融资环境还是很友好，公司流动性无虞。在美国经济不发生衰退的假设下（我的基准情景），我的模型
+预计
+全球公司债的违约率只会缓慢上升
+在我看来，经历前几个月的上涨后，
+信用债和股票都回到了fair的水平
+
+--------------------------------
+
+Article No. 49
+Chitchat with GAA之老司机来了
+2016-06-16 GlobalAssetAllocator
+
+本期Chitchat with GAA的嘉宾是一位非常senior的老司机，具有很多年的全球宏观交易经验，对市场的理解非常深刻，推荐大家认真读一下。
+美元将继续走弱推动全球资本流入新兴市场资产
+主要观点：
+美元将继续走弱的原因是美国经济没有预期强、美国资产潜在回报低、美国即便加息也将维持鸽派立场、投机资本流出美国、非美国家相比美国的利差逐步上升。
+全球资本回流新兴市场将延续，原因是非美相比美国利差开始触底回升、新兴市场经济短期内不会硬着陆、全球资本回流新兴市场将帮助新兴市场复苏进而加速资本回流。
+A股可能进入中级反弹，原因是A股将得益于资本回流，商品价格持续反弹、货币财政政策的支持、A股加入MSCI指数会刺激这一进程加快、政府对经济的控制使得短期发生大面积违约和资金链断裂的经济硬着陆可能性较低。
+从更长时间跨度来看，过去几年美国经济复苏更为强劲，而中国为首的新兴市场国家进入去杠杆过程，全球资本流动从外国流入美国，导致了美元的牛市，见下
+图一
+图一
+然而2016年初开始，主要国家外汇储备开始增加，全球资本开始回流非美国家，同期美元指数从100跌至93，见下
+图二
+当前的情况是非美相对美国的利差有可能延续上升，新兴市场资产价值低估而美国资产泡沫严重，因此美元贬值的大方向应该还是成立的。
+当前的情况是，非美国家仍然弱，但并没有硬着陆式的破灭，而美国则开始缓慢走向更弱的境地，则资本可能更多流向新兴市场。
+图二
+见下
+图三
+图三
+而2013年美国开始退出QE，而非美国债相比美国债利差自2012年中就开始下降，推动其他货币相对美元贬值，如人民币也是这个期间开始的，见下
+图四
+。
+2016年初以来非美相对美国利差却开始放宽，怎么看这个变化？
+原因有几个：1）商品价格触底反弹，reflation成为中心，新兴市场利率触底反弹；2）美国自2015年底首次加息后，继续加息难以推进，美国经济复苏力度减弱，美加息的溢出效应令美联储难以正常加息，美联储表现异常鸽派；3）新兴市场国家虽然去杠杆路程遥远，但整体经济发生硬着陆的风险仍未爆发，另一方面本币贬值令货币政策难以异常宽松。
+图四
+利差对外汇储备的影响也是同理的。见下
+图五、图六
+现在关键是判断资本流入非美国家、美元贬值、非美相对美国利差放宽这三个方面是一个短期的调整还是趋势的开始？要判断这个趋势的延续性，应该用反身性来解释。
+         首先，我在《黄金今年可能有机会》一文中论述到，美元升值、资本流入美国这个趋势是一个自我加强的过程，美元升值推动资本流入美国，推动美国资产潜在收益提升，从而进一步吸引资本流入，美元升值。但这个自我加强的过程必然会到头，原因在于美元升值，资本流入美国必然导致非美国家经济的下滑，资产的潜在贬值空间增大，随着这个过程的延续，美元的持续升值开始反作用于美国经济，美元升值相当于加息，且非美国家经济的下滑开始拖累美国，美国资产价格不断上升导致泡沫的严重化，由于美国不能一直维系强势美元和高利率，这个自我加强的过程终究会终止，从而一个新的反向的自我加强过程开始。另一个反身性是，美元升值伴随资本从新兴市场流入美国，新兴市场为了稳定本币，被迫干预市场，持续卖出美元债券持仓，令美国利率结构性偏高，然而偏高的实际利率最终拖累美国经济，令美国经济减速。
+         其次，美元贬值、资本流入非美国家特别是新兴市场国家将是一个新的自我加强的过程。一旦投机资本发现美元、美国资产已经丧失吸引力，潜在空间没有了，投机资本将寻找别的领域，而这个领域将是新兴市场，见图七。新兴市场经济的确还很弱，但目前为止中国还没有爆发危机、资金链断裂等硬着陆的现象，只要投资资本意识到新兴市场危机并不会马上发生，而美国走弱，美元走弱，就一定有资本进来，资本的流入推动商品和新兴市场资产开始上涨，而上涨本身将推动新兴市场需求复苏，进一步推动商品价格反弹和新兴市场资产上涨，一个新的自我加强过程开始。然而一个新的自我加强的过程在早期会有一个反复，也是一个考验和自我矫正，如果通过了这个反复和考验，市场朝新的方向运行的过程得到加强，之后的反复和自我矫正将越来越少。这个考验最有可能表现为美联储加息，美元短时间上涨，不过这个考验在上周五的非农数据以及联储的几次鸽派表态上就已经被弱化了。当然把美联储加息、美元上涨仅仅当成美元贬值、资本回流非美国家趋势的一个考验，而不是回到旧趋势的方法是，观察4月联储会议纪要和5月份联储官员讲话重新激发加息预期的过程中，我们看到人民币汇率并没有恐慌性下跌，A股、港股反而触底反弹，美、欧、日股市不是恐慌下跌反而上涨，这说明市场对联储加息的期待并不多，对新兴市场资产的下跌风险已经消退，这正好检验出了美元贬值才是主趋势。
+         最后，自我矫正阶段往往比较矛盾，市场对新的方向比较犹豫。我们不禁问：这个自我矫正会不会回到原先的趋势上去？一种可能是，就是自我矫正过程中，新兴市场货币贬值，结果新兴市场真正面临硬着陆威胁，投机资本进一步流向美国和美元，这时可以说自我矫正回到了旧趋势。但这样情况下，美联储一定会放弃加息，更严重的话，美联储可能做新的QE，则原有趋势将仍会走到尽头。关键是，短期我们看不到新兴市场发生硬着陆的可能：1）商品、原油价格反弹，降低硬着陆风险；2）美国经济已经开始走弱，美联储保持鸽派，美元升值难以为继，美联储加息也只会是dovish hike；3）中国经济相对封闭，政府管制色彩浓烈，政府把控力强，危机只要还是局部范围，就不会爆发，从而赢得经济复苏的时间;另一种可能是，美国经济阶段性走强，自我矫正的时间拉长，美联储得以顺利实现加息。不过，原先推动美元升值、美国资产价格上涨的逻辑是不可能了，因为这条逻辑已经遇到了天花板，即美元升值已经威胁到了美国经济，事实上美国经济已经开始走弱，特别是，这条路径在上周五的极差非农数据下被弱化。因此，就算后面月份的非农数据恢复150k的步调，我们也很难预计美联储会多次加息，因为市场的思维和实际走势已经给了答案，即加息说明美国经济还好，则美国股市涨，因为市场担心的是美国经济走弱，而不是担心加息本身，如果不加息了，美股反而会跌。
+         抛开上周五的非农数据，美国经济阶段性走强是有一定理由的：1）二季度美国股市从1季度的大跌后反弹，目前接近于历史高点，这对经济起到了支撑作用；2）全球reflation、商品价格上涨、美元贬值对美国制造业起到一定支持作用，见
+图九
+图八
+图八
+图九
+然而，从最新的数据显示，美国的制造业复苏又不那么稳定，最近的地区联储制造业景气指数又开始掉头向下，见图十。
+图十
+在新的自我加强趋势下，预示的市场发展有什么？
+1)美元贬值，非美货币升值；2）黄金将受益于美联储鸽派，并且商品价格、通胀上涨同步发生带来的实际利率下行，黄金仍有上涨空间；3）新兴市场股票上涨，新兴市场债券利差收窄。4）美债收益率区间震荡，收益率向下的逻辑是美国进一步走弱，收益率向上的逻辑是新兴市场走强和进一步风险资产走强，而无论是美国走弱还是新兴市场走强，都预示美元兑非美货币贬值。5）油价可能继续反弹，但已经反弹较多，反弹的理由从美元贬值、原油供给下降转变为原油需求开始复苏而供给跟不上和美元继续贬值，不过反弹的速度可能会放慢；5）商品价格也将继续反弹；6）A股、港股将延续反弹。7）美债收益率曲线将会steepen。
+EMFX：这里面最强的是跟油和商品相关的货币，预计强者恒强这个过程还将继续。
+对原油的看法
+Gasolinedemand - particularly in the U.S., China and India - will remain robust. Lower gasoline prices in the U.S. willcontinue to buoy demand during the summer driving season.
+Non-OECD oil demand - led by China and India - is also on track to increasethis year, which will lift overall global oil demand by 1.26mn b/d. China andIndia will account for slightly more than half of the total increase in globaldemand this year. Our commodity strategists expect Chinese oil demand toincrease by 340,000 b/d, while India's will rise by almost 300,000 b/d.
+Oil supply destruction in the U.S.appears to be accelerating, with field production in the lower 48 states down922,000 b/d from peak production levels.
+In addition to declining oil output in theU.S., supply losses aretaking place in the poorer OPEC states - Venezuela and Nigeria, inparticular - and in other non-OPEC producers. The oil market will furthertighten this month as NorthSea fields go into maintenance, removing 740,000 b/d of supply. Partly offsetting the supplydestruction in the poorer OPEC states and elsewhere is the continued surge in Iraqiproduction and steadily increasing Iranian production.
+Overall, we continueto expect around 1.5mn b/d of production to be driven from the oilmarket this year, which will causestorage to draw from record levels.
+Bottom Line: The oilmarket has rebalanced and will go into deficit later this year, causinginventories to be drawn down. Our commodity strategists remain bullish on oil as supply destructioncontinues and global demand grows.
+A股和港股将延续上涨
+图：上证指数（周）突破趋势线
+就中国数据而言，PPI、CPI、PMI input price都有见底抬头的迹象，2015年4季度和2016年1季度M2 YOY和金融机构总贷款YOY都有回升，至少从数据上能够看到Reflation在中国可能在抬头。如果前面的全球投机资本回流新兴市场的情况成立，则可以预计中国的reflation将继续演进，这将有利于股市。近期中国A股加入MSCI的呼声日渐高涨，加入MSCI可能成为一个刺激因素，一定要重视。之前最担心的国内企业债违约风险，现在看起来短期不会爆发，5月份以来中国高收益债的利差甚至还一直在收窄。就目前的情况，人民币贬值也是难以发生的，一是美元没有升值动力，二是中国硬着陆的风险的弱化，人民币中期虽然有贬值的压力，但需等待条件具备之时，比如美国经济走强、联储加息、商品反弹到顶、中国股市估值低洼被填平之后，这可能要等到4季度或者明年了。
+
+--------------------------------
+
+Article No. 50
+Soros and Gross may have a point
+2016-06-10 GlobalAssetAllocator
+
+ Risk Appetite Index shows sign of euphoria
+Growth Proxy underperformed MSCI World, casting doubt on sustainability of this rally
+Low risk premium indicating much less fear than Feb when this rally began
+Investor sentiment already quite bearish, the only comforting evidence 
+ECB says Ireland may grow 5 percent in 2016, check 
+
+--------------------------------
+
+Article No. 51
+This time is not different, 论利率的周期
+2016-06-07 GlobalAssetAllocator
+
+原文载于华尔街见闻专栏：http://m.wallstreetcn.com/node/subscription/84802
+记得今年第一天，我刚开始写微信公众号，第一篇文章叫
+当前点位看空中国长段端利率债
+但是，回过头来看，大的逻辑我觉得是对的，并且正在play out。利率主要受一阶变量（产出缺口和通胀）影响，而不是二阶变量（经济增速）和三阶变量（经济动能）。因此，从历史经验中观察到，大的利率拐点都是通胀催生的，而不是经济增速和动能。下图显示，国债利率和PPI在大方向和大拐点上非常吻合，而与GDP增速和PMI的关系却不是那么明显。
+通缩风险最大的时候已经过去了。
+潜在增速下行导致的经济减速不应以货币政策应对。
+广义通胀上行意味着，即使名义利率保持稳定，实际利率也是下降的。
+最重要的是，企业的盈利周期和库存周期已经走到了拐点。
+上述讨论的是大趋势，小的波段还会有，比如下半年经济动能如果出现减速，利率就可能反复。但总体上，利率债跟基本面比起来太贵，曲线太平，把cyclical downturn定价为this time is different的长期通缩情景，that's just too pessimistic. 
+以上纯属臆测，供大家娱乐。
+近期文章：
+Demystifying China's Debt：A Balance Sheet Point of View
+Credit 101: 信贷的正确打开方式
+When Trend Trumps Fundamental
+Global business cycle in a nutshell
+‍
+
+--------------------------------
+
+Article No. 52
+Demystifying China&#39;s Debt：A Balance Sheet Point of View
+2016-05-30 GlobalAssetAllocator
+
+原文载于华尔街见闻专栏 
+前段时间朋友圈流行一首诗，名字叫“如何当中国著名经济学家”，第一句就是“出言必称高杠杆，遇事就跟日本比”。足见中国的债务问题已经有多少人写过了，但我觉得里面还是存在许多误解，甚至是阴谋论，没有抓住主要矛盾。
+Q1:中国的债务高不高？
+下图是
+BIS的数据，应该是可以拿到的最长的时间序列了。2015年9月，中国非金融债务
+（政府+企业+居民）
+因此，按照这个指标来看，中国的债务是偏高的，但没有到极端的程度。
+数据来源：
+https://www.bis.org/statistics/totcredit.htm
+Q2: 中国债务的脆弱性高不高？
+我认为不高，只看债务水平，不看资产负债结构就是耍流氓
+在数据完美可得的情况下，我可以画出如下一个类似数独的表。记得在欧债危机的时候，桥水在分析希腊债务危机的时候就用过类似的方法，分析的时候可以根据不同债权人与债务的人的关系和利益捆绑程度，对再融资率做假设，以估计债务人的
+流动性缺口。
+要完成一个类似的数独，中国目前的数据是不支持的，但没关系，我们只需要了解
+一个大的picture，
+中国是对外净债权国，i.e.在合并报表下，中国作为一个整体是债主，而不是欠钱的。
+一个人的债务就是另一个人的资产。中国的对外净债权地位意味着，
+中国这292%的债务，大部分是内债（本国居民持有），而不是外债（外国居民持有）。
+很多历史经验和实证研究都表明，内债和外债的脆弱性和爆发债务危机的概率完全不可同日而语。
+To see why，我们看看NIIP怎么来的，NIIP
+t
+t-1
+t
+△
+t
+=
+△
+说白了，中国企业的最终债主正是本国的家庭部门。
+来源：Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth 
+因此，在衡量债务问题时，区分内债和外债十分重要。
+外债过多的国家往往是前期内需过多造成的，表现为通胀高企，实际汇率上涨，经常账户赤字，
+一旦遭遇credit crunch，只能被迫大规模缩减国内需求，恶性去杠杆，欧洲边缘国家和
+希腊债务水平远没有日本高，为什么会出现拐点，因为大部分是外债，信用基本面一恶化，敏感的外国投资者就不愿意refinance，出现了国际收支危机。
+内债多的国家，多数是发达国家比如日本、北欧四国和欧元区整体，这些经济体里面的高杠杆部门杠杆加不上去的时候，会
+表现为内需不足、通缩风险上升，但
+做空日债之所以成为寡妇交易，就是因为做空者低估了本国投资者的超额储蓄和home bias，虽然日本并没有资本管制，日本居民持有的外国净资产已经达到GDP的70%，但通缩环境下对于本国国债的需求仍然十分强劲。
+中国明显属于内债高的国家
+，
+过去30年，有利的人口结构（30-64岁的prime saver占比大幅上升）和有房才有老婆的社会习俗，导致
+中国居民部门的储蓄率异常的高。未来10年这些因素预计不会显著改变，居民部门的超额储蓄没有更好的选择，只能继续为企业和政府部门的存量债务和新增赤字融资
+，国际收支
+危机
+数据来源：Datastream,UN,作者计算
+一个尾部风险是国内储蓄美元化，即资本外流，毕竟中国的M2有22万亿美元，流出15%，外汇储备就没了。
+但如果说还有一个国家还能否比较有效地实现资本管制的话，我不是针对谁。。。2014年下半年以来的de facto资本管制效果大家都看得到。
+综上，中国债务水平虽偏高，但不极端，而且都是居民部门支持的内债，结构稳定。
+Q3: 上述结论的投资含义是什么？
+上述结论的投资含义是，在大家过度悲观的时候投资机会就来了，有一些市场信号我认为应该紧密关注，比如股债相对表现，港股做空比例，高风险股票溢价和
+美元
+中资债信用利差等。
+数据来源：Wind,Bloomberg,Barclays
+
+--------------------------------
+
+Article No. 53
+GAACAM全球股票国别配置模型(多图预警)
+2016-05-25 GlobalAssetAllocator
+
+最近完成的量化
+股票
+原理与
+GAAETM
+股票择时模型
+类似，但更加复杂，
+GAAETM是二元模型，GAACAM面临的是多元选择。
+回溯结果，
+因为模型是fully invested，所以maximum drawdown很大，毕竟国别间股票的相关性是非常高的。这个问题尝试结合
+GAAETM给出的择时信号来解决
+，将市场分为risk on和risk off两种状态，股票仓位分别为100%和80%.Combined model 大幅提高几乎所有指标的表现。
+没有模型能代替一个成熟投资人的经验，但上述模型可以作为头脑风暴的起点。
+Driven by recent supply disruption, long WTI now looks crowded 
+Gold follows US real yield，more like a currency than a commodity
+While US real yield showed  a great deal of seasonality in the past few years
+Gold to test 1200,  the key short term uptrend support
+USD needs break above through 96.9 to be on the uptrend again
+Volatility resurfacing
+Hedge Fund seems still short EM
+近期文章列表
+Credit 101：信贷的正确打开方式
+Ray Dalio on the coming inflection
+point 
+https://bwater.qualtrics.com/SE?Q_DL=25AqN6v95JrX95z_821PbPaoPb2VyxT_MLRP_b78ZFOhsMvNklaB&Q_CHL=gl
+关注GAA的读者里面各路大神众多，有愿意分享的可以给GAA留言，题材不限，但必须是干货，GAA请你吃饭喝酒，地点你挑。
+
+--------------------------------
+
+Article No. 54
+Credit 101: 信贷的正确打开方式
+2016-05-19 GlobalAssetAllocator
+
+2007年之前，政策制定者和经济学家都津津乐道于过去10年经济的高增速和低波动，"The Great Moderation" they called(伟大的稳定)。其原因被归功于IT技术进步平抑了存货周期，以及中央银行家设定的通胀目标增强了货币政策的预见性和透明度。随后的故事大家都知道，这一切不过是一段大的信贷周期，"The Great Illusion" indeed（结果是伟大的幻觉），信贷的重要性自此被重新认识。
+The Typical Error——Stock/Flow Comparison（典型的错误，存量比流量）
+在
+如果定义信贷存量(Credit Stock)为一阶变量，那么Credit Growth作为flow是二阶变量，而GDP增速作为flow的变化，则应该是三阶变量。
+Theoretical Framework and 
+Stylized Example（理论框架和假设性例子）
+在t期，
+GDP
+t
+t
+t
+△GDP
+t
+t
+t
+同时在t期初，债务存量为
+D
+t-1
+I
+t
+t
+，△
+D
+t
+是当期新增信贷
+，
+△
+D
+t
+/D
+t-1
+则是信贷增速。
+由以上可知
+，△GDP
+t
+t
+t，
+所以GDP的变化和与信贷的三阶变量
+△△D
+t
+△△D
+t
+下面是一个假设性的例子，描述一个经济体加杠杆再去杠杆的过程，可以清楚地看到信贷冲量和总需求增速的关系更好，而信贷增速有时甚至是滞后的。最后3列我加了银行信贷经理的行为，在当期信贷经理可以选择新增1个信贷、收回1个信贷、或者维持信贷不变，新增信贷减去收回信贷即是第三列的当期新增信贷值。
+这个例子最有趣的一点是第t+4年，当年信贷增速为-6%，但总需求增速却是28.6%，这说明信贷负增长的时候，经济却可以扩张。换句话说，去杠杆不意味着衰退，只要去杠杆速度放缓经济就可以复苏。这一点在某些特定时刻有着巨大的投资含义（后文详述）。与这个道理类似的还有存货冲量（Inventory Impulse）和财政冲量(Fiscal Impulse)。
+Empirical Evidence
+上述这一理论在实践中应用效果如何？非常好。下面两张图是美国和欧洲信贷冲量与GDP增速的关系，两者track非常紧密。而且能注意到在去杠杆末期，信贷增速为负，B/S还在收缩，但经济往往已经反弹了。记得2009年的时候，所有人都对美国很悲观，这么高的债务，去杠杆路漫漫，经济什么时候才是底。高盛出了一篇报告，Can economy grow while balance sheet shrinks? （资产负债表缩水时，经济能增长吗？）答案当然是yes。
+另外注意到，由于具备前面所述的理论基础，银行家调查是一个非常好的经济周期领先指标。
+说了这么多信贷冲量，信贷增速并非一无是处，由前面的推导可知，信贷增速是二阶变量，对应GDP的绝对值，同时也就对应了产出缺口。产出缺口对通胀和利率的影响重要性不言而喻，但产出缺口的测量不易也是人人皆知，所以信贷增速是产出缺口很好的proxy（代表）。下图是美国信贷增速和CBO估计的产出缺口的关系。
+比较遗憾的是，信贷冲量应用在中国经济数据没有那么straightforward，原因我暂时也没弄清楚。但高盛最近有一篇报告用计量模型估计了中国经济对信贷冲量的反应，结论是信贷冲量对随后几个季度的GDP增速有明显提振作用。同时，他们估计过去几个季度的信贷冲量的效果将集中体现在
+此外，人民银行也有一个银行家信心调查，但问题设置和数据处理上有一些问题，调查数据也不是完全公布，因此用处暂时也不太大。
+5个百分点的信贷冲量对GDP的提升作用
+当前信贷冲量对随后几个季度中国GDP的影响
+所以，下一次如果有人当着你的面，以信贷增速（）（）（）（），所以GDP增速（）（）（）（）这一形式造句时，请你默默在心里给他downgrade，谁让他不看GAA。
+P.S. 这篇说的是信贷，信贷的另一面是债务，关于中国的债务问题很多人都写过，但大部分充斥着阴谋论和误解，所以我下一篇计划讲一下中国的债务问题，敬请期待。
+
+--------------------------------
+
+Article No. 55
+【GAA】Global business cycle in a nutshell
+2016-05-18 GlobalAssetAllocator
+
+美国仍是世界增长和通胀的发动机，global divergence down but not out
+欧洲不好也不坏，typical European muddling through
+日本又一次落入第三象限，Abeconomics in vain
+中国远没有那么糟，wanna short China? Be my guest
+出个对联，上联： In the short run, productivity is nothing, but in the long run productivity is almost everything. 对出来有奖
+历史文章列表：
+宏观分析师进阶手册
+When Trend Trumps Fundamental
+Labor Economics 101- 为何不能以居民收入作为政策目标
+
+--------------------------------
+
+Article No. 56
+Chitchat with GAA之爱尔兰财政部经济学家黄屹杰
+2016-05-14 GlobalAssetAllocator
+
+GAA：屹杰你好，很感谢你作为Chitchat with GAA系列的第一个嘉宾，能否先介绍一下你自己？
+黄屹杰：
+很高兴通过公众号结识了GAA，非常有幸成为第一位受访嘉宾。我目前供职于财政部下的国家财富管理局，主要工作是管理爱尔兰现有的2100亿欧政府债务以及在一级市场发行国债。我们有一个经济学家团队，致力于帮助市场更好的了解爱尔兰的情况，以期降低国家的融资成本。我个人兴趣在宏观经济，短期预测模型和量化投资策略。
+GAA：
+今天我们要聊得是爱尔兰的供给侧改革，能否先帮我们回顾一下爱尔兰整个危机的背景？
+黄屹杰：
+爱尔兰危机是房地产泡沫和金融危机的双杀。爱尔兰和美国有着千丝万缕的关系，因为早年大量爱尔兰移民的关系，爱尔兰裔在美国势力发展的很大，政界商界都有不少人物是爱尔兰裔；又因为爱尔兰12.5%的公司税，很多美国跨国公司巨头都把欧洲总部设立在都柏林。所以，当美国房地产如火如荼的时候，爱尔兰房地产也像被传染了一样疯涨。98-07年间，地产价格实际增长287%，而GDP相应增长180%。由于严重脱离基本面，投机现象普遍，爱尔兰房地产早在2007年初就开始出现了拐点，没有任何导火索一样的事件，但房价就是开始崩塌。很不幸，几个月之后，大西洋彼岸的美国也因为房地产泡沫和次级贷款出现了波及全球的金融危机，爱尔兰作为开放度极高的经济体，自然无法幸免。由此，国内地产泡沫的破裂和国外系统性金融危机的波及拉开了爱尔兰危机的序幕。
+媒体或者经济学家提起欧猪国家都会说：他们挥霍无度，好光景的时候今天花明天的钱，债台高筑，坏光景的时候没钱花也没钱还了，所以有了欧债危机。也许可以这么说别的欧猪国家，但爱尔兰政府的债务水平在危机之前仅20%出头，危机之前绝没有债台高筑之说。事实上，爱尔兰政府在危机前还认真讨论过是否应该废除财政部发行国债的部门，因为税收太好，实在没有发债的需要。事情就是这么戏剧化，由于大量失业，和房地产交易量的萎缩，政府的印花税、资本所得税和收入税急剧下降，再加上美国巨头受金融危机影响，公司税也出现大幅下滑，爱尔兰政府为维持日常开销需要大额财政赤字。与此同时，房产泡沫破裂留下大量银行坏账，银行系统崩溃需要救助，于是就有了接下来几年的巨额赤字、债券利率飙升和忍辱寻求三驾马车的贷款。
+GAA：
+所以总结起来，爱尔兰危机的导火索是高估的房地产市场，造成银行业坏账，最后政府被迫干预导致的政府债务危机，危机的爆发则是一场私人部门恶性去杠杆过程。这样的背景听起来和中国目前的状况有一些相似性，那我们好奇，能够从这种程度的大危机中快速的恢复，爱尔兰政府做对了哪些事？
+黄屹杰：第一，劳动力成本下降，国际竞争力提高。
+下图是爱尔兰名义劳动力成本，请注意，名义工资在现实中是很难降低的，因为工会组织在欧洲的强大势力，更因为经济学上的“荆轮效应”。很难想象一个国家的名义工资能下降25%。很多公司的标准薪资至今离危机前都还有很大一段距离。首先是政府部门公务员（教师，医生，政府部门）全体降薪，其次是大量对工会进行工作疏通，表明这是系统性的宏观危机，没有别的出路。其他欧洲国家削减福利往往会引发游行罢工骚乱，这些在爱尔兰也有，但最终只有爱尔兰把名义工资砍下来了，最终踏着其他国家的body走上复苏。道理很简单，欧元区大家都用一样的货币，谁的工资低就是谁有相对的竞争力并获益，相对零和博弈。
+第二、开放度极高，受益英美复苏。
+爱尔兰是典型的出口导向型国家，主要的出口产品是制药、IT和农产品。其中制药和IT的出口企业均为美国巨头。在欧盟，爱尔兰的出口仅次于“欧洲银行业的后台”卢森堡。近几年来英国美国的复苏直接带动爱尔兰出口。
+第三，欧元汇率下降刺激出口。
+欧元自QE以来汇率一直处于历史低位，这对于爱尔兰的出口业又是一针强心剂。与此同时，由于大量美国企业的出口，欧元兑美元大幅贬值导致了出口的deflator的猛增，最终回馈到名义GDP中，使得GDP deflator在2015年高达5.7%，名义GDP达到惊人的13.5%。注意，并不是因为爱尔兰有很高的通胀率，这是完全两个概念。
+第四，财政紧缩。
+在经济不景气的情况下，欧盟还不让财政赤字超3%，要求实行紧缩的财政政策，认为对长期经济稳健发展是有利的。这让大部分任期只有几年的政府非常头疼。财政紧缩是否有效在欧洲是一个很有争议的话题。看看爱尔兰是怎么做的：提高税收，开征新税种，全体公务员交公务员税。所以爱尔兰人过去几年有多惨，投机房子的最后可能被银行没收，工作可能没了，即便有，工资比以前还低25%，完了还得交比以前更多的税。更惨的是该国公务员，由于国家养老基金拨出约160亿欧救助、重组和国有化几个银行，现在退休的公务员养老金出现巨额缺口，为了填补缺口，每个现役公务员大约征收收入10%的公务员税，以发放退休公务员的养老金。正所谓国家有难，拿纳税人钱养的公务员先顶上去。
+第五，房价复苏，银行业清表进程加快。
+爱尔兰房市的底在2013年显现，当时的经济体已经具备一些复苏的条件，利空出尽，房价跌无可跌，价值凸显，高达7%以上的租售比吸引了国际投资者。在房价底部期间，超过60%的交易均为现金交易。由于房价回升，爱尔兰银行业在剥离完坏帐后迅速恢复盈利，先后回购注销了政府的救助时的优先股。但最大的AIB尚未重新上市私有化，一旦上市，所募得资金有望达到120亿以上规模，将完全用于偿还政府债务。相比较其他国家的银行业，爱尔兰的银行的资产负债表更为干净透明，当希腊的银行进行第三轮救助的时候，爱尔兰银行业早已实现盈利多时。
+第六，积极的债务管理。
+不得不说，在欧猪国家中，爱尔兰政府对债务的管理是最积极和透明的。透明度对于一个曾经遭市场封杀，被认为近乎违约的国家非常重要。比如，在接受三驾马车高息贷款后，爱尔兰政府每个月公布月末国库现金状况，为此囤积了大量现金，常年维持在150-250亿的水平，也就是提前覆盖未来1年半左右的融资需求，以防再次被市场封杀不能融资。此外，在能够重新发债后，爱尔兰迅速游说瑞典和英国等对爱有双边贷款的国家，要求延期推后偿还双边贷款，允许其优先偿还IMF6%的高息贷款。之后陆续宣布偿还大部分IMF贷款，如果债务的利息支出达到GDP的5%，6%，猴年马月才可能达到欧盟3%财政赤字的红线？更别提盈余了。这一系列的措施增强了债券一级市场的信心，实现了良性循环。如今爱尔兰在国债市场已经脱离欧猪国家集团，利率向核心国靠拢，和比利时、法国非常接近。从各种角度看，爱尔兰和比利时的情况较为接近甚至更好，我们目前力争在一级市场发行利率低于比利时。
+第七，押对行业。
+制药业是相对防御性的行业，且在过去几年出现一波热潮，发展相对迅速。世界10大药企9家在爱尔兰有生产基地和实验室，是美国药企巨头向欧洲出口的桥头堡。此外，服务业的出口比重在互联网泡沫后迅速攀升至2015的50%以上。爱尔兰的软件服务业出口世界份额于2014年超过印度位居第一。因特尔，甲骨文，苹果，戴尔，EMC，微软，Facebook，谷歌的欧洲总部都在都柏林。爱尔兰经济的复苏无疑也得益于IT和制药这两个行业近年来的高速发展。
+第八，低油价。
+制药业是低油价相对受益的行业，爱尔兰本土不产油，低油价环境当然是个利好。此外，15年和16年初强劲的零售数据背后是新车销量的激增，这和低油价不无关系。
+GAA：谢谢屹杰全面的阐述，我几个问题挨着问，爱尔兰在欧元区，名义汇率不能自由调整，所以只能依靠内部贬值restore竞争力，而你也提到名义劳动力成本是很难降的。这些实际也是中国目前面临的实际情况，汇率贬值会加剧资本外流流动性紧缩，而政府把居民收入提高作为政策目标，名义工资很难降。爱尔兰具体是怎么做到的，是否跟灵活的劳动力市场制度，甚至跟爱尔兰人民坚强勇敢的民族性格有关？
+黄屹杰：
+ 
+对，工会力量在爱尔兰相对来说不像法国这些国家那么强大，劳动力市场较为灵活我认为是主要原因。其次是当面临系统性危机的时候，选择其实非常明了：减薪或者失业。如果你又身负房贷，且身边的大多数人都遇到这样的情况，我想大家都会选择减薪保住工作。还有，欧洲国家公务员群体是相当庞大的，爱尔兰公务员占工作人口的15%，这部分人带头砍工资，降福利的示范作用也是比较大的。最后，民族性格也有一定原因，举个例子，危机时候通过了法案，2028年后男女退休年龄将提高到68岁，目前是66岁。68岁什么概念？维基百科一下，目前来看2028年爱尔兰将成为世界上退休年龄最晚的国家。目前最晚的是希腊和冰岛的67岁。
+GAA：
+在国内需求由于去杠杆不振的情况下，爱尔兰的经济复苏很大程度依靠外需。这和产业政策有关，你刚用了一个词，叫“押”对产业，IT和医疗。我想知道，在产业选择上，政府到底起到了多大的作用，还是主要是企业和市场自然的选择。我们国家目前老在提互联网+，工业4.0，互联网金融这些产业概念，是不是有过度干涉的嫌疑？爱尔兰政府在产业选择上是怎么摸清干涉边际的？
+黄屹杰：
+哈哈，可能我用“押”这个词不是非常恰当，因为据我所知政府一开始是没有有意识干预产业选择的。爱尔兰立足发达国家之林也就是最近30年的事情，之前还是比较传统落后的农业国，从1980年代开始爱尔兰就开始为12.5%的公司税做准备工作，政府的初衷是通过优惠的公司税政策大力引进外资，依靠外资迅速带动就业，人才培养和产业建设。结果发现吸引来的产业基本都有个共性：高毛利率。因为高利润率导致交的税很多，所以这些跨国公司想办法少交税。制药，IT，飞机租赁（全世界50%以上的飞机租赁活动都在爱尔兰）这些都属于毛利很高的产业，于是几家大公司试水后，同行纷纷仿效，自然就形成了产业集群。在产业集群初具规模后政府开始增大相应的专业人才培养，教育支出占GDP比重常年达到6%以上，位列欧洲前茅。在做好所有这些以后，如今政府开始有意识鼓励跨国公司将研发移到爱尔兰，并给予诸多优惠。回到国内的情况，我个人觉得政府在支持相应产业的同时因该考虑这些产业是否适合中国，我们发展这些产业是否比其他国家更具比较优势。而不是看什么产业好就发展什么，一个产业的培养需要数十年的时间，赶时髦是赶不过来的。比如爱尔兰是在看清楚了哪些行业被吸引过来了之后再开始制定一些行业的鼓励性政策和人才专项培养政策。
+GAA：
+下一个问题是银行坏账，也是令目前中国政府头疼的问题。爱尔兰是怎么处理银行坏账，我记得是采取了好银行/坏银行模式，分拆不良资产，迅速对银行注资，打消对银行solvency担忧，防止恶性信贷紧缩，能否具体讲一下？
+黄屹杰： 
+没错，在危急前5家主要的国内银行，政府没救1家让他破产了，另外1家被收购，1家被完全国有化，2家被部分国有化。和国内的4大资产管理公司一样，爱尔兰在危机后迅速设立了坏账银行NAMA，剥离银行坏帐，背靠国家信誉单独发行SeniorBond融资。NAMA当时被设计成一个SPV，51%股份私有，由三大银行等额认购17%，49%国有，这样做的目的是防止NAMA被计入政府的资产负债表，银行又掏了钱买了教训（最后因为一系列因素没成功，最终国有股占66%）。坏账银行的有逆周期性，但也有很强的顺周期性，如果爱尔兰房价一直不回升，NAMA的处置速度不会领先预期2年，也不会这么快就实现盈利。目前NAMA已经开始开启转型缩减规模的进程，去年员工裁撤了2/3。但这样分拆坏账的模式不能频繁重复使用，国内的问题是银行业什么时候能吸取教训，审慎经营，对信贷扩张有所控制。同时还有个问题就是剥离后经济环境和处置资产相对应的产业能否起来，起不来的话AMC也可能消化不了这些毒资产。
+GAA：
+你提到了债务管理和数据透明度的问题，我对此深有体会。我当时还在体制内，爱尔兰财政部负责一级市场发债的John Corrigan和首席经济学家Rossa White每年跑一次中国拜访各个机构，update爱尔兰最新的情况，给我们留下非常深刻的印象。我知道Rossa是你现在的老板，笑。最后能否请你谈下爱尔兰的投资机会？
+黄屹杰：
+首先说说股市，如果买了ISEQ指数ETF，千万别以为long的是爱尔兰经济， 航空公司Ryanair占了整个市场21%的权重，TOP 3的公司占了51%，TOP 5的公司占了68%。从股指表现看，买爱尔兰ISEQ相当于买欧洲航空公司（short石油）。
+其实最有可能具备投资价值的个人认为还是房地产。目前爱尔兰房地产处于一个较为合理的估值水平，长期来看下行风险有限，缓慢向上的空间较大。从汇率因素来看，欧元尚处低位，如果绘制一张人民币的爱尔兰房价走势图，至今依旧徘徊在历史低位。如果长期欧元解体，爱尔兰很可能盯住贸易关系密切的美元（加入欧元区前汇率长期盯住最重要的贸易伙伴英国的英镑）。考虑到小国开放经济体波动性很强，理论上也提供了在汇率高点抽身的机会，当然汇率的事情长期很难说，也得看RMB长期的走势。再换一个角度，如果想要移民英语国家，爱尔兰50万欧的门槛是最容易达到的，350万人民币买个house直系亲属统统移民。当然这些都是题外话。
+最重要的理由可能是高租售比。由于地产泡沫，买房的人因为银行惜贷而买不了房，开发商一朝被蛇咬十年怕井绳，新的供给也一直没有出现。所以房租蹭蹭往上涨，在可见的未来几年，供给可能出现缓慢回暖，但银行系统的信贷渠道可能需要更长时间恢复，由此，更多的人会租房，名义房租和商品价格一样，很难出现大幅度的deflation。综上，爱尔兰房地产的高租息率可能在未来几年是有一定保障的。
+GAA：
+谢谢屹杰的分享，希望你工作顺利，有朝一日回国效力。 （完）
+P.S. 看烦了GAA的文风，不知道小伙伴们是否喜欢这样的对话形式？记得之前GAA有一
+位领导说过，真正的牛人是不害怕分享的，因为他总在创造，别人只能一直follow他的脚步。还有一位领导说，一件事情只有你能完整清楚地写出来，其中的逻辑才算真正厘清了。
+
+--------------------------------
+
+Article No. 57
+【GAA】When Trend Trumps Fundamental
+2016-05-12 GlobalAssetAllocator
+
+RISK OFF
+国内大宗商品挤bubble，经济政策的不确定性以及外围市场risk off导致A股市场风险厌恶情绪处于高位。
+价格之前已经显示出了
+，目前已经跌了20%，很大程度消除了相对基本面的溢价，但短期overshooting是很可能的。目前，民众对政策的不确定性很高（权威人士not helping），阻碍了A股股权风险溢价的下行。此外，外围市场
+最近的跌势使得技术面又变得很差，吓走不少momentum trading。
+但是，情况没有看起来那么差，下面是让GAA不那么悲观的
+三个
+第一，周期性经济复苏还没走完。
+CPI不是目前阶段的主要矛盾）
+如果经济继续复苏的情景realize， 按照历史经验，股票将outperform债券，创业板
+outperform主板。
+第二，市场没有price
+公司盈利好转的情景。
+对于A股上市公司盈利，GAA感觉市场人士普遍比较悲观，今年恒生国企指数的EPS预期一值在下调，这低估了分子牛的概率。
+盈利反弹最具确定性的驱动因素是财务费用的降低。
+听起来很少，但是由于杠杆效应，对净利润的影响是巨大的。目前A股非金融公司净利润率是5%左右，在其他条件保持不变的情况下，财务支出占比下降1个点就足以让净利润增长近20%。
+此外，考虑到名义GDP仍是正增长，企业topline增速至少不会为负，劳动力成本的上涨近期也缓解不少，所以公司盈利反弹15%以上几乎没有不确定性。高杠杆至少有一个好处，货币政策绝对管用。
+上一次这种事情发生是在2000年，央行降息4个点，财务支出占比下降3个百分点，净利润率几乎double。因此，
+经济加速增长并不是企业盈利好转的必要条件，即使2季度以后经济重新减速，企业盈利也会反弹。
+A股净利润率和工业企业利润模型也显示，如果央行的reflation措施work，A股上市企业利润率会扩张，工业企业利润将大幅反弹。
+第三，市场情绪已经很低迷
+。
+目前很多指标都显示，投资者对中国的情绪很悲观，头寸比较轻，比如港股做空比例很高，
+很低，a positive earning surprise is well underpriced.
+所以结论是什么？取决于你的投资期限和资金性质。如果你的投资期限短，资金不稳定甚至带杠杆，技术面告诉你趋势还是往下，应该暂时hold住。如果你的投资期限长，资金稳定，基本面说市场头寸很轻，盈利有惊喜，现在进去肯定是要赚大钱的。It's your call.
+最后update一下
+GAAETM股票择时模型
+GAA发现虽然所有人都知道信贷很重要，盯信贷数据也很紧，但打开方式并不正确，所以最近在构思一篇Credit 101
+，不知道大家有没兴趣看？在下面投票告诉我。
+
+--------------------------------
+
+Article No. 58
+GAAETM股票择时模型
+2016-05-06 GlobalAssetAllocator
+
+近期做的一个股票择时模型，流动性
+指标
+指标
+指标
+做了一个回溯测试，基于t月月底的数据计算信号，以决定在t+1月所有资金投资MSCI World还是3个月美国国债，如果要rebalance假设每次交易成本20bp。
+回溯结果，从1981年开始，年化回报12.4%
+高出MSCI World 5个点，波动率9%比基准低7个点，Sharpe Ratio很高。表现好的主要原因是模型可以躲过大的drawdown，比如1990年，2000年、2008年，2012年和2015年，最大回撤13.8%，远远低于MSCI World的53.8%。
+比较大的错误有两个时点，2006年卖得有点早，2009年买的晚。这两点主要是盈利指标比较差导致的，也就是说是因为基本面恶化导致的卖出信号，我觉得这样的第一类错误可以接受。最近
+再refine一下，看看能不能应用到的A股上。
+每日鸡汤： 
+Investment success doesn't come from "buy good things", but rather from "buy things good". 
+
+--------------------------------
+
+Article No. 59
+会员深度思考：【GAA】宏观分析师进阶手册
+2016-05-02 GlobalAssetAllocator
+
+编者按：
+对于投资，如果能对未来一段时间的经济走势的预测比市场大众预期更准确，将是一个巨大的优势。但预测宏观经济不是一件容易的事，除了必要的经济学素养外，还需要长期潜心学习跟踪和其他必需的技巧。因此，为了能让大家更系统深入地学习如何做宏观经济分析，今天专为大家分享一篇来自会员的《宏观分析师进阶手册》，向大家介绍该如何打造经济理论基础，建立分析框架以及处理数据来对宏观经济进行分析。作者曾供职于某主权投资机构负责全球资产配置工作，有多年深度宏观经济研究经验，现为公募基金QDII投资经理。
+作者： GAA
+ 
+作者微信公众号：GlobalAssetAllocator
+在我印象中，宏观经济学家大概分为两种，一种是三好学生经济学家，典型的英美牛校PHD毕业，经过严肃和系统的经济学训练，大部分投行的首席都是这个路子。另一种是所谓的hands in pants（野路子）经济学家，虽不是经济科班出身，但在市场上摸爬滚打很多年，积累了很多对宏观的rule of thumb（大拇指法则），对传统经济学充满鄙夷，比如Bill Gross和Ray Dalio这种大佬。对于我们做宏观分析最好还是从传统经济理论开始，在市场起起伏伏中，领会传统经济学的局限，逐渐建立起自己的分析框架。
+宏观研究的核心目的是判断和预测经济走势。
+如果对未来一段时间的经济走势比市场大众或what was priced in（市场预期）更准确，对于投资将是巨大的优势。但预测不是件容易的是，橡树资本的Howard Marks说过一句话大意是，每个人都有预测对的时候，但能保持很高正确率的预测者才能创造真正的价值（Howard Marks本人不相信预测，他说他从来不通过预测赚钱）。我觉得需要做好系统的准备工作，即
+打造理论基础、数据理解，数据处理、建立分析框架，做投资者关心的预测，才有可能成为有价值的宏观分析师。
+打造理论基础不需要PHD
+最近很多人在朋友圈转Ray Dalio的经济分析框架，我不确定这些人是否真明白他的理论，但说实话我并没有觉得桥水的分析框架超越了传统经济理论，桥水Daily Observation（每日观察）谈的基本全是传统理论，无非是更多强调了债务对实体经济的影响。而且Ray写的关于方法论的文章一般都非常简略，缺乏细节和数学推导，作为读者很难学为己用。所以最好还是从传统理论开始，下面是我列的宏观分析师理论基础养成书单。
+用心读完中级以下的书，就基本具备了投资领域看宏观的理论基础。高级的两本书虽然强烈推荐，但的确很难啃，如果你不是在央行工作或搞学术，就选看吧。这时你应该
+理解生产活动和国民账户是的统计，通胀和就业的关系，中央银行如何设定货币政策，货币、信贷和银行体系的运作，企业投资和盈利的微观行为，居民就业和消费， 公共部门财政和政府债务，各部门资产负债表和资金流动，国际收支和外部冲击
+Devil in the details（细节决定一切）, 对经济数据的理解需要堆时间
+GAA自身的经验，对经济数据的理解是一个由浅入深的过程。
+在刚开始的时候，面对这么多纷繁的指标，要先对VIP指标要有一个概念，怎么统计的，大概是什么量级。怎么区别那个指标重要？一个简单的办法是去看看IMF和投行发布的经济预测，涵盖在里面的就是VIP指标。下图是IMF发布的中国2015年Article 4里面的预测，里面的指标主要是hard data（可以精准测量的硬数据）。顺带说一句，IMF这种官方机构的预测近年遭到很多诟病，尤其是被指缺乏完全的客观性，但他们的报告比较正统和易读，适合新手学习揣摩。大部分投行的首席都是从IMF和世行出来的，说明资本市场还是认可他们研究能力的。
+在弄清这些VIP指标后，顺其自然你想要了解更多细节，包括VIP指标的分项指标和衍生指标，还有PMI，消费者信心，行业景气等很多重要的soft data（调查产生的软数据）。Haver数据库里光美国的经济指标大概就有1000多个，都过一遍吧，我没开玩笑，但日后你会发现是值得的。比如，所有人都知道美国非农就业重要，但很多人不知道非农数据是一个净增量的概念，即非农并没告诉你美国当期创造了多少岗位，同时关闭了多少岗位，然后你就理解了为什么椰奶奶要看JOLTS（职位空缺数和劳工流动调查报告），因为里面包含的新增岗位率、解雇率、主动离职率等反映劳动力市场松紧的信息是对非农很好的补充。你也会理解，为什么经济学家根据耐用品订单衡量美国企业投资意愿的时候，喜欢排除飞机和国防订单，他们波动性太高了。再举个中国的例子，下图所示，历史上房地产销售领先房地产投资6个月，但去年房地产销售起来了，但房地产投资数据继续下滑，于是很多人说因为房屋库存太高了，这一关系已经破裂了。但值得注意的是，统计局公布的房地产投资完成额是名义值，其变动会受到价格变化的影响。由于当前巨大的工业通缩，这夸大了实际投资的降幅，所以看房地产开工更有意义，销售和开工的领先关系还在。
+说了这么多，就一个意思，细节决定一切，这个阶段看得越细越好。To make your life easier（用户体验优先），我推荐以下资料减轻这个阶段的痛苦，Bernie Baumohl的The Secrets of Economic Indicators（经济指标的秘密），高盛的Understanding US/China Economic Statistics（理解美国/中国经济数据）系列, BEA（美国经济研究局）的 NIPA Handbook（国民账户手册），IMF的Balance of Payment Manual（国际收支手册）， OECD的Understanding National Account（理解国民账户）。在GAA微信公众号回复“宏观资料”可以收到这些资料的网盘地址。
+Garbage in garbage out（数据质量决定预测质量的下限），数据处理不能强调更多
+到现在为止，你对宏观经济数据已经了若指掌了，再谈下数据处理，毕竟garbage in garbage out。
+数据处理的目的是排除噪音，提取关键因素，确保数据间apple to apple(可比性)和经济意义。
+举个例子，GAA平常关注的堪萨斯联储的劳动力市场指数就是用PCA做出来的，第一主成分是labor market level of activity（劳动力市场活动指数），用来衡量劳动力市场的slack（剩余产能），第二主成分是labor market momentum（劳动力市场动能），衡量就业岗位创造速度。有了这两个指数，你就可以抛开底层的几十个劳动力市场指标了，达到了降维的目的。
+分析框架需要qualitative（质化分析）和quantitative（量化分析）并重
+Qualitative说白了就是培养感觉，学会提炼和降维，把冷冰冰的数据放在历史里去观察，形成你的经济历史观。
+这需要做详尽的narrative analysis（历史描述分析）。一个不错的narrative analysis例子是Jan Hatzius等写的关于实际利率历史的研究，The Equilibrium Real Funds Rate: Past, Present and Future（均衡实际利率的过去、现在和将来）。看过桥水每日观察的读者都会佩服他们对历史的研究，他们可以把80多年前大萧条期间的经济走势、货币和财政政策和资本市场表现完整地复述出来。虽然我们没有桥水这么多资源，但还是有很多公共资源可以挖掘的，比如美国的Economic Report of the President（总统经济报告），可以用来回溯几十年前的美国经济。
+举个例子说明研究历史的重要性，美国企业利润率一直是衰退的领先指标。因为美国的经济衰退基本都是由经济过热和失衡带来的，具体讲企业管理层在需求上升的时候过度乐观，急于扩大产能，导致成本失控，利润率下滑，最终被迫关厂裁员的故事。因此，近期美国企业利润率的下滑也引发了衰退担忧。但是如果看看历史，上一次利润率下滑却没有衰退的时候就是1985年的原油供给危机。美国企业利润率下滑主要是能源行业导致的，非能源行业的pricing power（定价权）还在。这次也一样，所以短期没有衰退。
+另一个石油供给冲击的例子，一般认为油价下跌有减税作用，消费者在油价下跌时会降低储蓄率，支持居民消费。但伴随本轮油价下跌的确是美国居民储蓄率的上升，大家都比较意外和困惑。但如果看一下1985年那次石油供给冲击就能发现，油价快速下跌也增加了经济不确定性，居民把油价下跌带来的额外收入当成wind fall（天上掉馅饼），不愿增加消费。但随着油价逐渐企稳，储蓄率开始下降，支持美国经济继续扩张。大宗商品的供给冲击一般20多年才一次，所以很多人都不记得上一次的情形（也许还没出生呢），研究过历史的你就不一样了。
+Quantitative就是把前面那张理论思维导图模型化。
+大的研究机构做经济预测都会找十几个PHD跑大型的DSGE（动态随机一般均衡）模型，比如美联储的FRB/US，IMF的MULTIMOD，OECD的NIGEM。但这种模型总是假设经济最终进入稳态，基本没法预测经济衰退，而这是做投资最关心的。而且这种模型太复杂了（美联储网站上给出了FRB/US的EVIEWS源代码，有兴趣的可以看看），做投资不需要那么花哨的东西，实用主义第一，可能更加依赖一些所谓的toy model（小模型），rule of thumbs（大拇指法则）和proprietary leading indicator（自己研发的领先指标）。
+举个通胀预测模型的例子，其核心仍是Phillips Curve（菲利普斯曲线），一般先把能源和食品摘出来，再把商品和服务分开，商品拆成工业产品和非工业产品，服务里把虚拟房租单独拎出来，分别建模预测，最后加总得到headline（总体）通胀预测。这种granular（分拆）的方式不仅更有道理，还易于分析和纠错。
+再举个人民币汇率的例子，年初几乎所有人都觉得要大贬，但好像没人讨论为什么要贬。汇率贬值无非两个作用，一个是缓解国内通缩压力，一个是增加企业竞争力。看下历史数据就很清楚，名义汇率是PPI和企业利润的稳定领先指标，只要名义有效汇率的同比涨幅从2015年的15%回到0附近，这两个问题便可大大缓和，所以根本没必要去贬多少。
+最后说一下构建分析框架一定要遵循奥卡姆剃刀原理，假设越少越好，分析框架逻辑越简单越好，我一直把对待某券商首席周期理论的态度作为辨别同道中人的简单标准，他真的明白自己在说什么嘛。
+宏观分析师的终极问题，where are we and how are we？
+到了这一步，我们终于成为了具备理论基础、经济数据如数家珍，熟读经济史，手握分析利器的宏观分析师，那我们要解答的主要问题是什么？
+一个是我们处在经济周期的哪个阶段（where are we in the cycle），另外一个是我们的增长形态如何（how are we growing）。
+产出（GDP）是一阶变量，GDP增速（GDP growth）是二阶变量，增长动能（Growth Momentum）是三阶变量。大家都学过泰勒展开式，这三个变量看清了，宏观的big picture（大方向）就抓住了。
+经济周期根据产出缺口和增速可分为四个阶段，一般持续7-10年。
+前期（Early Cycle），实际产出低于潜在产出，但产出增速高于潜在增速；中期（Mid Cycle）实际产出高于潜在产出，产出增速高于潜在增速；后期（Mid Cycle）实际产出高于潜在产出，产出增速低于潜在增速。衰退（Recession）实际产出低于潜在产出，产出增速低于潜在增速。由于经济活动的内生动能，经济周期是一般不可逆，只有少部分时间会出现double dip。判断经济周期的难点在于，潜在产出是无法观察到的，所以无法确切知道我们身处哪个阶段。即使知道在哪个阶段，我们也不知道周期的各个部分会持续多久，衰退多久会来，只能根据企业和居民行为、价格信号等去推断。对于经济周期的判断主要应用于中长期的战略资产配置，尤其是对于利率的判断，因为通胀和利率更多由一阶和二阶变量决定。 
+增长形态根据GDP增速和增长动能也分为四种状态，一般持续12-18个月。
+复苏（Recovery），GDP增速为负，增长动能增强；扩张（Expansion），GDP增速为正，增长动能增强；减速（Slowdown），GDP增速为正，增长动能削弱；收缩（Contraction），GDP增速为负，增长动能削弱。如果说驱动经济周期前进的主要是家庭和企业经济部门的理性微观行为，推动增长形态切换的则主要是信贷、存货和金融条件等短期因素。增长形态的切换大部分时候也是不可逆的，收缩到一定程度一定会复苏，复苏总会走向扩张。判断增长周期的难点在于减速阶段的切换，按照历史统计，在一年之内，有40%的概率减速还会重新回到扩张，20%的概率将进入收缩。针对这两条路径的投资决定是完全不一样的。对增长周期的判断主要应用于短期的战术资产配置，尤其是对于权益类资产的判断，权益对二阶和三阶变量更敏感。
+以上就是我这几年做宏观研究的一些心得体会，文中多有纰漏，欢迎关注我的个人微信公众号
+GlobalAssetAllocator
+作者：GAA
+格隆汇声明：
+格隆汇作为免费、开放、共享的海外投资研究交流平台，并未持有任何关联公司股票。转载本文，请务必注明来源“港股那点事”及作者。
+●
+ 
+投稿给格隆汇。投稿邮箱：
+tg@gelonghui.com
+；
+●
+登录格隆汇官网（
+www.gelonghui.com
+）或格隆汇APP，注册、发文；
+●
+guruclub_cs
+●
+ 参加格隆汇三大线下活动：
+汇说、汇路演、汇调研
+●
+hk-guru
+●
+ 联系电话：
+0755-86533501
+ 
+●
+业务洽谈：
+business
+@gelonghui.com
+
+--------------------------------
+
+Article No. 60
+新兴市场，螺纹钢和风险情绪
+2016-04-30 GlobalAssetAllocator
+
+前期涨幅较大的新兴市场股票和螺纹钢表现出羊群效应，警示回调风险
+螺纹钢的上涨有一定基本面支撑，但走得太快，超过基本面可解释20%左右
+目前市场情绪比较乐观，对风险定价偏低。2月以来，金融市场四大暗黑天王 美联储、美元、石油、人民币都是有利风险因素的方向，watch closely
+
+--------------------------------
+
+Article No. 61
+中国经济跟踪-The &quot;Party&quot; goes on
+2016-04-15 GlobalAssetAllocator
+
+今天公布的经济数据加强了GAA对中国经济周期性复苏的判断（
+2016-3-1A股反弹尚有空间，2016-4-1经济动能反弹比以往来得更早一些
+最近写的太勤，GAA决定接下来减产，潜心修炼抱娃和喂奶技能，see you all in May~
+ 
+
+--------------------------------
+
+Article No. 62
+一个美元脑残粉的自白
+2016-04-14 GlobalAssetAllocator
+
+GAA除了是A股的死多头之外，还是美元的脑残粉。过去两个月，尽管美国经济数据好转，但椰奶说reaction function有变化，表示要考虑金融市场表现和全球经济的影响，导致实际利率大幅下滑，美元多头头寸unwind。
+但是，GAA觉得这个故事已经largely played out了，需要重新考虑美元再次升值的可能性了。
+强美元对美国制造业的拖累消退
+美国逼近满就业，工资将继续上涨，各种通胀指标都在回升，联储再次加息的压力越来越大
+金融条件已经大幅好转，经济最坏的时候已经过了
+近几年，美国的经济数据和实际利率表现出非常明显的季节性，联储可能在6月前再次释放鹰派言论，推高实际利率，带领美元重新升值
+硬币的另一面，欧元区经济面临降速风险，前期货币宽松的效果淡去内需下滑，强欧元对欧元区出口的负面影响正逐渐显现
+日元也是类似的情况，上海正大广场协议的两个大输家恐怕不会甘愿独自吞下强势货币的苦果。
+今日最佳：今晚有没人提醒下科比和他隔壁家老王把凌晨4点的闹铃都关一下
+
+--------------------------------
+
+Article No. 63
+多哈不是万能药，转自高盛
+2016-04-12 GlobalAssetAllocator
+
+ 多哈会议临近，油价再次回到40美元，面临200天均线的强大阻力。同时，原油投机净多头连续两周下降，CTA削减原油头寸。
+高盛主要的观点是，近期产出的下降受到一些暂时因素的影响，即使达成冻产协议未来几个月产出仍有上涨的风险，而且布伦特的隐含波动率曲线太陡了，没有反映会议的不确定性（目前已经倒挂），原油预计多哈会议将成为原油再次下跌的导火索。
+Doha is no panacea
+Goldman Sachs
+OPEC and non-OPEC producers will meet next Sunday (April 17) in Doha to discuss a potential production freeze. We do not expect the meeting to deliver a bullish surprise as we believe production cuts make little sense given it has taken 18 months for the rebalancing to finally start. In addition, any resolute agreement that would support prices from current levels would prove self-defeating, in our view, as we believe that sustained low prices are required for the nascent non-OPEC supply adjustments to deliver a deficit in 2H16. Finally, a production freeze at recent production levels would not accelerate the rebalancing of the oil market as OPEC (ex. Iran) and Russia production levels have this year remained close to our 2016 average annual forecast of 40.5 mb/d. Importantly, the stable level of production achieved during the first three months of the year is due to transient disruptions whose reversal could add 500 kb/d to OPEC production, with Iran, the Neutral Zone and Libya potentially providing additional production growth in coming months. As a result, we see risks that even a production agreement could be followed by sequentially rising OPEC production given the multitude of potential sources of production growth. 
+Ultimately, while the market seems to have taken comfort in some form of OPEC help, press reports over the past weeks suggest that a production agreement is far from guaranteed. Net, we see greater odds that the Doha meeting delivers a bearish catalyst for oil prices. Interestingly, the oil options market is associating no risk premia to this meeting with Jun-16 Brent ATM implied volatility below Jul-16 ATM implied vol, the first time this has occurred heading into an OPEC meeting since June 2014. While it is difficult to assess consensus expectations ahead of the meeting, we believe that this upward sloping volatility curve is mispricing the potential moves on Monday, April 18, with our bias for lower prices. Finally, while we forecast that the balancing of the oil market will bring crude oil prices sustainably back into backwardation later this year, we believe that the recent flattening of the Brent forward curve is only transitory, reflecting the combination of production maintenance, especially in the North Sea, in the face of seasonally rising Atlantic basin refinery runs. As a result, we continue to believe that the balancing of the oil market requires sustained low prices with our 2Q16 forecast of $35/bbl.
+OPEC and non-OPEC producers will meet in Doha on Sunday, April 17 to discuss a proposal to freeze oil production at January or February levels (according to the Russian Energy Minister and Kuwait OPEC Governor respectively). According to the Ecuador Oil Minister, producers would not discuss output cuts in Doha but such discussions could be possible at the June 2 OPEC meeting, although the Venezuela Oil Minister commented on waiting five months before cutting production which would leave such a decision for the end-of-year OPEC meeting. This is consistent with our view that production cuts make little sense at this time since it has taken 18 months for the rebalancing to finally start (see 
+While a lot of discussions and preparations have occurred since the freeze was first proposed in mid-February, there remains high risk that the meeting fails to deliver any concrete agreement, in our view. The decision to freeze seemed consensus when oil prices were near their lows (the freeze was announced on February 16 with WTI prices of $29/bbl) but such a decision is less obvious with oil prices back near $40/bbl. We believe that further price upside should a convincing agreement be reached would undermine the nascent supply adjustment process and be self-defeating. In particular, while non-OPEC producer guidance during the first two months of the year pointed to sufficient production declines to balance the market by 2H16, we believe that this adjustment will be derailed should prices recover to $45/bbl in the short-term (see 
+Failure to reach an agreement would not necessarily lead to an immediate increase in OPEC production. A key reason behind the quick consensus that built around the proposed freeze was the lack of production growth expected in many participating countries: Venezuela, its most vocal proponent, is seeing production decline while we expect that Russia, the most important non-OPEC participant, will not see further production growth this year. But importantly, the lack of OPEC production growth over the past three months has been driven by transient disruptions, with production otherwise on track to reach new highs. Preliminary data points to March OPEC ex. Iran production coming in line with the February level: this reflects Kurdistan production still 300 kb/d below its January level due to the Feb-March attack of the pipeline to Ceyhan, Nigeria production down 200 kb/d because of force majeure on its Forcados stream, Venezuela production declining because of power shortages and lower Libyan production. And while the Venezuela production decline may persist this year given the constrained finances of the government and power shortages, the arrival of a unity government in Libya creates offsetting risks with the potential for three ports representing 620 kb/d of capacity to come back online (given the unsettled political and security landscape and the damage to these ports from recent attacks, we remain conservative and leave our 400 kb/d production forecast for the remainder of 2016 unchanged).
+While disruptions will likely remain an ongoing concern for OPEC production, the reversal of these recent disruptions would alone add 500 kb/d to OPEC production. Further, Iran exports have come in above our expectations in March, up as much as 300 kb/d mom according to ship-tracking data, and the Neutral Zone is likely to restart a year earlier than we had expected. Finally, we continue to expect that Saudi crude exports will remain at a stable level through the summer, implying like last year an increase in production in coming months. As a result, we see risks that even a production freeze agreement could be followed by in fact sequentially rising OPEC production given the multitude of potential production growth sources. As a result, while the market has taken comfort in the production freeze discussion and the declining US rig count, we continue to believe that the balancing of the oil market is still far from secured.
+The various comments heading into the Doha meetings have contributed to the gyrations in oil prices over the past month. Yet the oil option market is pricing no significant price move from the Doha meeting. Brent Jun-16 ATM implied volatility (for options expiring April 26) is 42.7% and below Jul-16 ATM implied volatility of 43.4%. This implies that the market is pricing in a daily oil move between today and April 26 of 2.73% (a window that includes the Doha meeting) and a higher daily move of 2.80% between April 27 and May 25 (a window that includes neither the Doha or June OPEC meetings). This is the first time since the June 2014 OPEC meeting that the market is not associating a higher daily move at an OPEC meeting. While it is difficult to assess consensus expectations ahead of the meeting, we believe that this upward sloping volatility curve is mispricing the potential moves on Monday, April 18, with our bias for lower prices.
+欢迎扫码关注GAA，共同讨论全球宏观经济和资产配置话题。
+
+--------------------------------
+
+Article No. 64
+A股的羊群效应指数
+2016-04-11 GlobalAssetAllocator
+
+GAA不是交易员出身，对交易的理解也比较欠缺。但GAA知道，投资者对市场的不同看法是市场交易的基础。如果所有人都是一致行动人，那市场是没有流动性的，价格只能大幅变动，直到所有人的看法重新变得不一样，典型的例子如美股90年代由保本基金引发的一致抛售，以及去年A股的股灾。如果能对投资人的一致行动性或羊群效应进行量化，将有助于对拐点的判断。下图是通过A股市场交易数据构建的羊群效应指数，当羊群效应比较极端的时候，往往就是市场的拐点，无论是顶部还是底部。
+有两点值得注意，一是没有任何指标是完美的，羊群效应指数有时会给出错误的指示，有时也会错过一些反转；二是羊群效应只能告诉你拐点到了，不能告诉你反转的程度，这是基本面分析要做的。
+目前羊群指数显示，投资者对市场的分歧还比较大，意味着在基本面的支撑下，还有更多空头转多的空间，继续支持A股的上涨。
+欢迎扫码关注GAA，共同讨论全球宏观经济和资产配置话题。
+
+--------------------------------
+
+Article No. 65
+旧文重发-中国外汇储备并不过多
+2016-04-08 GlobalAssetAllocator
+
+外汇储备3月增长100亿美元，至3.21万亿，好于预期-60亿，但对欧元和日元升值调整后，外汇储备下降370亿，稍好于2月的390亿。
+这篇文章是2013年时写的，虽然五毛的屁股决定了观点，但我自己挺满意，只是发表时被太监了很多。当时人民币还是香饽饽，外汇储备还在快速上升，一些专家（例如社科院余某）吹风说经常账户投资项是赤字，外汇储备太多了浪费，要把外汇储备分了，自然很多部委跟风。这篇文章主要的point是，外汇储备按国际收支全口径标准衡量并没有很过量，并且一年几百亿的投资逆差跟外汇储备形成的系统性防火墙价值比不值一提。中国对外资产负债结构是高流动性低收益的对外资产（美国国债）和低流动性高收益率的对外负债（FDI），这样的结构虽然是负carry，损失了投资收益，但确是新兴市场国家吸引长期资本catch up，同时维持金融稳定必须要做的牺牲。3年之后的今天，估计不会有人嫌外汇储备多了，讽刺的是，专家最近又“选择保住外汇储备,而不是人民币汇率”了。
+他又错了。
+P.S. 名字是化名
+ 
+
+--------------------------------
+
+Article No. 66
+大底你好
+2016-04-07 GlobalAssetAllocator
+
+作为A股的死多头（
+2016-3-21 A股反弹尚有空间
+
+--------------------------------
+
+Article No. 67
+对冲基金大幅削减股票仓位
+2016-04-06 GlobalAssetAllocator
+
+The upshot is simple: to achieve superior investment results, you have 
+to hold nonconsensus views regarding value, and they have to be accurate. 
+That’s not easy.
+Howard Marks
+历史数据看，对冲基金表现出较强的contrarian特征。本轮rally后期，对冲基金在3月初开始削减股票仓位。这与风险偏好到达极度乐观水平的时间一致。
+
+--------------------------------
+
+Article No. 68
+中国经济跟踪-经济动能反弹比以往来得更早一些
+2016-04-01 GlobalAssetAllocator
+
+GAA之前预计经济动能要到4，5月才能起来，见（
+2016-3-5人民币可能面临新一波贬值压力
+至于这次提前的原因，我觉得与大宗商品价格反弹带来的工厂迅速复产有关
+进一步推高的企业的投资和贷款融资需求，央行银行家调查里的企业贷款需求track PPI很紧，出现了贷款需求好转的迹象。
+前期的货币宽松增加了企业存款和购买力，这波去库存周期已经到了底部
+近期的经济数据继续支持对股市的乐观和债市的悲观，但对人民币短期不太敢空了，人民币指数跟着美元跌了很多，即使美元相对主要货币升值，央行可能也会保持人民币兑美元稳定
+Thanks to 椰奶，上证做出了正确的选择。。。
+ 
+
+--------------------------------
+
+Article No. 69
+有图有真相
+2016-03-31 GlobalAssetAllocator
+
+一个有趣的现象是，大部分估值指标都觉得EM便宜，但ERP显示EM贵，因为EM实际利率太高了。
+一个股票牛市还没到头的证据是，并购活动还没到顶，公司仍是股票的net buyer
+是不是可以抄底EM了？证据比较mixed，IMF估计今年EM GDP增速将相对DM回升，但经常账户还是赤字，如果排除中国，赤字将更大。
+美国经济动能2季度之前有补库存的支撑，预计继续好转，但下半年有再次失速的风险。
+vol很便宜，风险偏好又起来了
+ 
+
+--------------------------------
+
+Article No. 70
+全球市场进入纠结期
+2016-03-29 GlobalAssetAllocator
+
+随着市场情绪偏向中性，前期的空头回补带来的上涨动能逐渐消失。
+周期股的相对表现已经price in了经济动能一定程度的好转。
+上证又要选方向了。。市场很纠结，我也是。翻开价投红宝书，一行黑体字印入眼帘，
+
+--------------------------------
+
+Article No. 71
+标题党-观察中国经济最重要的指标是？
+2016-03-27 GlobalAssetAllocator
+
+每个人可能都有自己的答案，我比较看重房地产销售数据，因为房地产销售对经济小周期具有经过历史检验的领先性，包括本轮周期。
+首先，房地产销售领先房价和新屋开工，而房地产活动对总需求的影响不言而喻。本轮下行周期很多人认为房屋库存太高，即使销售数据好转，房地产投资也不会复苏，并且举了统计局公布的房地产投资数据的持续下行作为例证。但需要注意的是房地产投资只公布名义值，其变动会受到价格变化的影响。由于当前巨大的工业通缩，这夸大了实际投资的降幅。我尝试用PPI里的生产资料价格对房地产投资进行调整，能一定程度纠正投资数据和开工数据的背离，但不完美。也许会有人质疑，纠正价格之后实际投资数据也是负增长，开工数据同比也只是变正一个月而已。对这种观点，我的回应是，边际的变化，从worst到less worse（second derivative)，比一个数字是是正是负更有意义， 这就是伯南克在金融危机时提的green shoots signal。
+其次，房地产销售领先库存周期，这轮去库存从2014年开始，预计未来数月结束。
+房地产行业的溢出效应很高，所以销售数据领先上市公司盈利，今年A股公司盈利有望改善。
+有没有指标比房地产销售数据更领先？那只有货币政策了，房地产行业杠杆这么高。
+统计局的销售数据是月度累计数据，所以要关注更高频的单月和周销售数据。
+ 
+
+--------------------------------
+
+Article No. 72
+Labor Economics 101- 为何不能以居民收入作为政策目标
+2016-03-23 GlobalAssetAllocator
+
+当年看到本届ZF把2020年居民收入翻倍当作政策目标时，GAA大惊，谁出的馊主意！把GDP翻倍当目标勉强还说得过去，拿居民收入说事显然是经济学没及格。近期看到楼继伟频频说劳动法不合理要改，心想难得有个明白人，不能再让Doctor误国误民了。今天看到广东终于冻结了最低工资，果然是改革春风最先吹到的地方。
+大家都知道GDP=C+I+G+EX-IM，这是支出法。按收入法，GDP=Wage+Tax+Profit+Deprieciation=GVA=Output-Intermediate Purchase。下图来自BEA的NIPA Handbook，强烈推荐大家有时间读一下。
+工资（利润）份额变化是商业周期轮动的关键。
+如果中间有一环被打破了会怎么样？企业明明没有利润空间了，但不能裁员和降工资，甚至由于法律规定的最低工资要求，还必须涨工资。这会加剧压缩企业利润空间，形成恶性循环。
+这就是中国目前的情况，自2007年开始，工资份额从40%上升到46%，利润份额从32%将至25%，但是由于新劳动法，由于居民收入增长目标，企业没法降低成本，那私人企业是不愿投资的，只有国企加杠杆硬扛着。1998-2003年政府的国企改革带来的下岗潮虽然痛苦，但换来了黄金10年。供给侧改革方向是对的，但要同时维持就业稳定还要收入翻倍，据我所知，历史上没有过成功先例。
+以前GAA君做五毛的时候，Governor Chou转来一篇澳总理在金融危机期间某论坛发表的一篇讲话稿让认真阅读，我一看领导用荧光笔highlight一句话，The world is better off with profitable corporate. 原来领导支持共和党！
+PS 这篇看上去有点键盘侠，研究这些看似跟投资没有什么relevance，但其实劳动力市场和增长，通胀，国际收支前景有千丝万缕的联系，可以从劳动力市场表现引申出对股市、债市和汇市的判断，以后再述。
+附录：宏观层面企业利润率的推导
+NGDP=Wage+Profit,两边除以NGDP，
+Profit/NGDP=1-Wage/NGDP
+=1-Employmen/*Wage/Employment)/(RGDP/Employment*Employment*Price)=1-Unit Wage/(Productivity*Price),取对数再差分，
+△Profit Margin=△Price+△Productivity-△Unit Wage
+用以上模型可以较好地解释A股上市公司利润率变化
+
+--------------------------------
+
+Article No. 73
+A股反弹尚有空间
+2016-03-21 GlobalAssetAllocator
+
+我一直是A股的死多头，根本原因有两个，一是相对利率债，股票真的很便宜。我关注的指标显示，A股相对利率债的估值处于2个标准差之外，市场已经price in了对中国经济非常bearish的增长停滞+通缩的情景。
+二是流动性太充裕了，在债券和房地产涨了这么多，资产预期收益大幅降低的情况下，资金迟早要回股市的。 相比于无风险收益率，风险溢价对流动性的beta更大。
+历史上看，流动性和股票估值背离的情况不会持续太久。
+‍
+预计股票将跑赢债券20%，预计创业板将跑赢大盘20%，现在大概走了一半，这波反弹还有空间。
+
+--------------------------------
+
+Article No. 74
+葡萄又熟了~大宗商品下跌风险上升
+2016-03-18 GlobalAssetAllocator
+
+微信给我开通了留言功能，欢迎针对文章内容留言讨论。
+近期的大宗商品反弹主要是前期极端情绪和仓位的normalize带来的技术性反弹, 见(20160306 石油可以抄底了吗？)，但过大过快的上涨使得技术面迅速恶化，价格反转的风险正在上升。
+大宗商品共同的敌人，美元多头已经快从地球上消失了。很多实证研究证明，投机头寸在1周是领先指标，但在1-3个月是反向指标。
+黄金虽然涨了20%，但仍受制于长期下行通道
+近期黄金投机净多头仓位处于2013年来高点，已经充分反映了联储的鸽派言论
+布伦特在43块左右将遭遇强大阻力
+投机净多头仓位很高很高，库存也是，好像有哪里不对劲！
+如果大宗商品回落，BEI很危险
+High Yield也是， 但抵抗能力更强，毕竟carry还在
+广告时间：微信给我开通了留言功能，欢迎大家针对文章内容留言讨论。
+ 
+
+--------------------------------
+
+Article No. 75
+人民币可能面临新一波贬值压力
+2016-03-15 GlobalAssetAllocator
+
+昨日彭博人民日报社头条，庆祝人民银行完胜境外做空人民币对冲基金。
+ 
+USDCNY 3M Risk Reversal 接近8.11汇改以来低点，市场有点complacent。我一直以来的观点是，人民币不需要大贬，见
+（2016-1-25 A stable RMB NEER will do，为何人民币不需要大贬）
+但是，我觉得近期人民币兑美元面临新一波贬值压力。
+我关注的指标显示，中国经济动能会在3，4月份继续恶化，直到2季度好转，而期间美国数据会继续转好。
+美国国债收益率近期上涨了30多bp，中美利差方向收窄，不利于人民币汇率。
+
+--------------------------------
+
+Article No. 76
+忽略短期波动，回归基本面，空欧元
+2016-03-11 GlobalAssetAllocator
+
+首先，我没看懂昨天欧元的反应。
+但国债市场的反应是正面的，通胀预期回升导致的美债和德债利率上涨。
+现在欧元净多头是高点，makes an easier Euro short
+欧元无视近期美国经济数据的好转
+美国核心通胀稳步复苏，最终会拉宽美日利差
+预计负利率会增加欧元区对外证券投资，推动欧元贬值
+Credit Suisse Global Risk Appettite Index显示市场重新进入RISK ON模式，不利于欧元这种funding currency
+
+--------------------------------
+
+Article No. 77
+好书安利The Secrets of Economic Indicators
+2016-03-09 GlobalAssetAllocator
+
+研究全球宏观很好的入门书和工具书，不仅告诉你每个经济数据代表什么，还解释数据怎么统计的，对金融市场的重要性，对各大类资产的影响和逻辑，最良心的是给出了每个数据的链接。仔细看一遍就可虐跑来路演跟你扯全球经济的某些卖方首席，谁用谁知道~
+http://www.amazon.com/The-Secrets-Economic-Indicators-Opportunities/dp/013145501X
+
+--------------------------------
+
+Article No. 78
+五张图看懂铁矿石发生了什么
+2016-03-08 GlobalAssetAllocator
+
+钢铁贸易商年初开始季节性补库存
+钢厂盈利好转，产能利用率提高
+生产活动拉动铁矿石需求
+去年底开始工业金属投机商净多头仓位很低，空头回补助力涨势
+这波工业原材料涨幅能持续多久还是要看终端需求，aka信贷
+
+--------------------------------
+
+Article No. 79
+Time to Move转自PIMCO
+2016-03-07 GlobalAssetAllocator
+
+PIMCO觉得目前是投资美国信用债的好时机，进可攻，退可守。
+https://www.pimco.com/insights/investment-strategies/global-credit-perspectives/time-to-move 
+PIMCO believes now is the right time for investors to consider a move into higher-quality credit as well as select high yield and bank loan sectors.
+Mark R Kiesel
+Many investors around the world face a dilemma between locking in low or even negative returns in traditional sovereign bonds or allocating capital to riskier assets like equities, where valuations have become less attractive.
+We think investors should consider better risk-adjusted alternatives: investment grade corporate bonds, select high yield bonds and select bank loans, which offer investors the potential to earn near equity-like returns with significantly less historical volatility than equities.
+Fundamentals, technicals and attractive valuations continue to support a compelling case for credit, and PIMCO’s belief that the U.S. economy will avoid recession this year bolsters our view.
+Investors around the world face a dilemma of where to turn in today’s environment of low or in some cases even negative bond yields. For example, roughly 75% of the entire Japanese and German sovereign bond market is now trading at negative yields, according to Bloomberg. As a consequence, investors are forced to choose between on the one hand locking in potentially negative returns, or on the other hand allocating capital to riskier assets like equities, where valuations have become less attractive and earnings growth in many industries will likely be challenged by lower nominal global growth. This dilemma, combined with the reality that global monetary policy is losing effectiveness, should give investors reason to consider better risk-adjusted alternatives.
+PIMCO believes that right now is the right time for investors currently focused either in the low-risk, low- to negative-yielding assets in the inner circle of PIMCO’s concentric circles of risk/reward (see Figure 1) or in the higher-risk assets of the outer perimeter to consider a move into higher-quality credit as well as select high yield and bank loan sectors: assets more in the intermediate zone of the circle diagram. Today, investment grade corporate bonds, select high yield bonds and select bank loans offer investors the potential to earn near equity-like returns with significantly less historical volatility than equities. Given absolute and relative valuations, credit offers a compelling balance between risk and reward potential – the potential solution to the dilemma. Credit, in our opinion, is in the “sweet spot” intermediate zone between lower-risk (inner circle) sovereign assets, which tend to outperform leading into recession, and higher-risk (outer perimeter) assets such as equities, which tend to outperform during the initial phases of economic expansion and monetary policy stimulus. PIMCO’s belief that the U.S. economy will avoid recession this year bolsters our view that it’s time to move into credit.
+The case for credit remains compelling and our constructive view is grounded in an environment of 1) solid and stable fundamentals for most corporate issuers where managements are finally acting more bondholder-friendly, 2) market technicals that will increasingly favor capital flows into high-quality U.S. credit assets and 3) attractive valuations and all-in yields for corporate bonds, with credit spreads wider than where fundamentals and the economic cycle suggest they should be.
+Fundamentals for most companies remain broadly intact outside of the metals and energy sectors, despite some signs of degradation of corporate balance sheets on the margin. We believe the U.S. economic expansion is right around mid-cycle, which should help keep defaults low (excluding the energy sector) and remain supportive for credit. Investor demand is also set to increase given the very low or negative yields across many developed market government bonds (see Figure 2). Importantly, gradually higher interest rates in the U.S. will likely lead to increased demand from foreign investors for U.S. financial assets, which in turn would lead to potential outperformance of credit given global investors’ need for stable income.
+Based on discussions with investors around the world, we expect that capital will move into the U.S. credit market throughout 2016, particularly if the U.S. economy can avoid a recession and continue to grow at its current pace. This outlook bodes well for credit assets in industries and sectors supported by high barriers to entry, above-trend growth and pricing power, in addition to companies with management teams that act in the best interest of bondholders. By sector, we continue to find compelling value and opportunities in consumer and housing-related sectors as well as in building products, banking, airlines, high-quality real estate investment trusts (REITs), select media/cable, healthcare and specialty pharmaceuticals.
+
+--------------------------------
+
+Article No. 80
+原油可以抄底了吗？
+2016-03-06 GlobalAssetAllocator
+
+近期的油价上涨是情绪（extreme position）, 需求面（reduced US recession risk）和供给面（potential production freeze）综合作用的结果。
+Managed Money 净多头历史低位
+ 美国去库存结束，经济数据掉头。（见20160209市场对美国衰退担忧过度，20160128美国经济周期跟踪）
+原油期货曲线变平，less contango， a bullish signal
+但是，这波油价上涨是否能持续存在疑问，因为从历史经验看，油价触底的前提是超额供给消除，触发库存降低，提升现货相对期货的短缺溢价，曲线变陡。
+最明显的是1998年，油价也出现过几次伪底，直到库存降低。。。
+曲线走平。。。真正的底部才出现
+技术上看，油价仍受制于下降趋势线，近期的快速上涨使油价接近超买区间
+国际能源组织估计今年下半年原油市场才能供需平衡，storage risk不会这么快消除，但最坏的时候已经过了，对做左侧的人来说可以逢低慢慢建仓。油价反弹是件大事，正如油价下跌，之前被price成趋势的价格信号会被证伪，how to play值得认真研究，long HY credit，BEI，Energy  Index，Energy equity，EM equity，short rates，gold，oil importer currency，机会与风险并存。
+
+--------------------------------
+
+Article No. 81
+黎明前的黑暗？
+2016-03-05 GlobalAssetAllocator
+
+
+--------------------------------
+
+Article No. 82
+创业板处于关键技术位
+2016-03-03 GlobalAssetAllocator
+
+ 创业板测试2012年底以来的趋势线。
+创业板相对大盘表现也处于趋势边缘。
+
+--------------------------------
+
+Article No. 83
+穆迪为何要下调中国评级展望？
+2016-03-02 GlobalAssetAllocator
+
+穆迪确认了中国主权Aa3的评级，但评级展望从稳定下调为负面。按照穆迪的说法，下调中国评级展望有3点考虑：
+1. 财政指标走弱，反映在政府债务和或有债务走高
+数据来源：Moody's
+ 
+穆迪的评级方法总体来说是比较透明的，据说基于他给出的评级方法和打分表得出的评级和实际评级的吻合率可以到70%。如下表所示，主权评级基于以下4个主因子：Economic Strength， Institutional Strength， Fiscal Strength， Susceptibility to Event Risk。每个主因子又由若干个次因子组成。
+那我们关心穆迪考虑的因素未来导致实际评级下调的风险，对于新兴市场来说，AA和A差别还是很大的。
+当年政府债务/GDP比率超过40%。Fiscal Strength下的这个次因子会从Very High-掉到High+。穆迪在2015年底作review时还用的2014年的值，39%。穆迪预计2015年会到40%，2016年会到41%。从近期政府对财政赤字更加宽容的表态看，2016底政府债务/GDP比重几乎铁定会超过40%，除非经济特别好。
+‍
+T+2年的短期外债/外汇储备比率高于50%。Susceptibility to Event Risk下的这个次因子（External Vulnerability Indicator ）会从VL-升到VL。 2015年底作review时用的2016年的预测值，38%。值得一提的是，2015年之前短期外债只包含外币计的外债，后来把人民币计的外债也加上去了，总外债/外汇储备比率以下从23%飙到了50%。穆迪预计2016年短期外债/外汇储备比率会到37%。假设短期外债变化不大，如果外汇储备降到2.5万亿以下，这个比率会升到50%以上。2016年经常账户和FDI预计流入4800亿美元，只有在2016年资本外逃超过1.2万亿的情况下（每月1000亿），外汇储备才会掉到2.5万亿以下。资本外逃最高的月份才这个水平，要持续一年可能性很小。因此，这个因素暂时不太担心。
+3.    至于穆迪列举第3个担忧，改革停滞，这个就比较虚。不过今年1月穆迪专门有篇评论，提到今年的刺激政策对信用有负面影响，尤其不喜欢国企加杠杆。
+ 
+数据来源：Moody's
+ 
+ 
+ 
+
+--------------------------------
+
+Article No. 84
+感谢零首付，金融狗终于买得起房了
+2016-03-01 GlobalAssetAllocator
+
+等了好久终于等到今天，呜呜呜～
+
+--------------------------------
+
+Article No. 85
+中国经济跟踪-Finally, some good news
+2016-02-26 GlobalAssetAllocator
+
+总体看，大部分事情都看起来好了一点。
+PPI1月触底，确认CRB指数和M1对国内工业价格的领先性。
+未来几个月是财政刺激高峰，财政政策更适合当前的宏观环境，比货币政策合适。
+房地产市场估计还能火几个月。
+如果信贷指能保持1月水平，2季度GDP数据不会太难看。
+美国后院起火，人民币觅得喘息机会
+出口差于预期，主要是贸易伙伴的增速回落，汇率已经不是拖累
+债券面临调整风险，股市不悲观。
+ 
+
+--------------------------------
+
+Article No. 86
+黄金仍是很糟的投资标的
+2016-02-24 GlobalAssetAllocator
+
+近期黄金的上涨对主要央行可能进一步实施负利率的反应。黄金的negative yield使其基本不具有投资属性，除非其他资产收益更低，比如现在的德债，瑞士国债，日债，which makes gold a high yielder quote from Gundlach. 这个原理和常说的黄金在货币超发、恶性通胀时期的抗通胀机制完全不同。
+ 
+ 
+但黄金相对其它资产的估值非常的贵，房价/金价比和股价/金价比都在历史低位。股票还好说点，负利率对房价是重大利好。
+ 
+油价/金价比更是到了历史最低水平，物极必反，似乎是long oil short gold的好时机。
+ 
+黄金传说的避险功能似乎也不是很明显。
+ 
+
+--------------------------------
+
+Article No. 87
+跨资产估值比较
+2016-02-22 GlobalAssetAllocator
+
+股票>信用债>国债>房地产
+
+--------------------------------
+
+Article No. 88
+Some technicals of A share
+2016-02-21 GlobalAssetAllocator
+
+ 
+
+--------------------------------
+
+Article No. 89
+国债利率面临上行压力；美国库存周期现触底迹象
+2016-02-18 GlobalAssetAllocator
+
+ 1月PPI同比收窄，通缩压力缓解。大宗商品预计在年内企稳，逐渐传导至PPI。流动性先行指标也显示，国债利率面临上行压力，具体分析见2016年1月2日《当前点位看空中国长端利率债》。
+ 
+ 
+2014年下半年开始的美国去库存周期有结束迹象，对制造业不太悲观。
+ 
+ 
+
+--------------------------------
+
+Article No. 90
+高盛对中国银行的压力测试显示，银行业可以承受11%的不良资产率
+2016-02-17 GlobalAssetAllocator
+
+1.按照当前工业企业利息覆盖比率，高盛估计中国银行不良资产率约在9%左右。
+2.目前银行的安全垫（损失拨备+拨备前利润+超额资本）足够抵御11%的不良损失率。
+3.假设目前净利差和损失计提速度，银行大约要用5-6年吸收这些损失。
+4.在20%的不良资产率情景下，银行的资本缺口约7万亿人民币，等于2-3年的拨备前利润或48%的权益。
+PS :目前银行整体0.9倍的PB隐含的不良资产率在10%左右
+
+--------------------------------
+
+Article No. 91
+有志者事竟成！
+2016-02-13 GlobalAssetAllocator
+
+
+--------------------------------
+
+Article No. 92
+图图图
+2016-02-12 GlobalAssetAllocator
+
+石油美元流出带来的卖压
+流动性和估值的分歧历史上不多见，难道欧元和日元就不是钱了？
+目前是信用市场最坏的时候，在现在水平继续恶化需要很坏的消息，预计未来几个月企稳
+ 
+
+--------------------------------
+
+Article No. 93
+摩根斯坦利估计的银行业能源敞口
+2016-02-10 GlobalAssetAllocator
+
+摩根斯坦利估计，欧洲银行对大宗商品的敞口占总敞口的比重约5%，约80%的核心一级资本权益，按7%的拨备计坏账约等于60%的税前利润。初步看大的系统性风险没有，就是怕引发信用收缩，欧洲好不容易有点扩张迹象。
+
+--------------------------------
+
+Article No. 94
+市场对美国衰退担忧过度，但需拉响警报
+2016-02-09 GlobalAssetAllocator
+
+近期的美国经济数据均出现下行迹象，尤其是ISM和IP等工业数据接近1990和2000衰退时期水平。但是劳动力市场的动能还是非常强劲，1月的非农数据是否代表拐点还要观察。CFNAI指数等综合性指标离衰退还比较远。
+ 
+ 
+即使在下滑相对严重的IP数据里面，衰退的行业占比也不是很高，暂时还不是广泛的衰退。
+ 
+从各个州的情况看，衰退的州占比也不高，基本都是集中在能源，挖掘行业占比重的州。
+State duffision Index
+虽然市场往往过度反应基本面的变化，但市场价格和经济基本面是有内生性互动的，尤其是信用市场的情绪恶化会收紧金融条件，进而影响企业融资，削弱投资意愿和总需求。未来几个月信用市场是否好转将很大程度决定今年是1995年还是2000年。
+CDS上升显示市场对信用风险担忧上升，但比起欧债危机期间显得微不足道。
+ 
+ 
+
+--------------------------------
+
+Article No. 95
+A股上市公司基本面跟踪
+2016-02-05 GlobalAssetAllocator
+
+信用基本面仍比较差，整体杠杆还很高，但显示出初步好转的迹象
+ 
+几次降息明显降低了财务费用
+盈利能力此前几年大幅下滑，利润率低于其他国家
+如果通缩缓解，盈利状况未来有望缓解
+ 
+ 
+ 
+去杠杆背景下，投资意愿非常弱
+祝大家新春快乐,节后早点回本~
+
+--------------------------------
+
+Article No. 96
+资产配置的几个层面
+2016-02-04 GlobalAssetAllocator
+
+资产配置一般按投资期限划分为几个层次：
+超长期战略资产配置（Secular SAA,期限20年以上）
+战略资产配置（SAA,期限3-7年）
+动态战略资产配置（Dynamic SAA，期限1-3年）
+战术资产配置（TAA，期限6-12个月）
+短期择时(Market Timing，期限1天到1个月)
+ 
+‍
+先谈下Secular SAA，对一般机构来说20年太长了，只有保险公司在做精算假设的时候会看这个。20年的投资期限已经跨越了一般7年左右的经济周期和资产价格的估值波动周期，投资回报基本取决于经济里面的趋势性因素，例如潜在增速，长债务周期。
+ 
+先看股票，在超长期限，由于估值的均值回归性，估值的影响将被抹平，潜在增速决定了长期股票盈利增长，进而决定股票的长期回报。
+ 
+ 
+接下来是SAA，在3-5年的投资期限里面，这是价值投资者的投资期限，估值的均值回归特性会充分的展现，解释大部分资产价格变动。这个现象的原因是市场的惯性，常常过于乐观（悲观）的expolate近期盈利增速高（低）的公司, 对growth定价过高，尤其是在经济下行，增长缺乏的时候，去年创业板的泡沫就是一个很好的例子。
+所以，要作价值投资者，一是进入成本要低，二是投资期限要长，贵的还能更贵，三是资金要稳定，因为经常要做反向投资，短期几乎必定是亏损的，但回报将是巨大的。As John Templeton said， it's impossible to produce superior performance unless you do something different from the majority。看看The big short更有直观感受。上面我是以股票作例子，但这一现象在其他资产都可以印证。
+ 
+投资期限越长，投资起点P/E和回报率的关系越强
+ 
+ 
+Dynamic SAA又叫Cyclical adjusted SAA,这个时候对宏观经济周期的判断的重要性在上升，可以帮你避免value trap。每个周期都有自己的champion asset，要顺周期而为，例如衰退末期的HY，复苏初期的美股和房地产，复苏中期的DM ex US股票，衰退时的国债。另外，注意到资产之间的dispersion很高。
+当然宏观判断从来都不简单，需要跟踪数据，理解数据间的钩稽关系，具体讲要对利率政策，货币和信贷，企业投资和盈利，居民就业和消费，国民账户，Flow of Fund和国家资产负债表，国际收支和外部冲击等等有清醒的认识，建立一套自己的框架。这个没有捷径，没几年功夫下不来。此外，研究历史非常重要, 再强调一遍this time is different很危险，不要轻易bet。
+到TAA和择时层面，估值已经不太起作用了，动能在6到12个月最明显，贵的可能更贵。 基本面依然很重要，但更重视经济指标动能而不是SAA看的level，同时更加看重资产的cashflow。流动性，技术指标、市场情绪和position给出的信号可能具有更好的命中率。一个很重要的问题是，这些指标很可能给出不同的信号，如何把这些信号combine在一起。实践中一般是打分表或者最优化，我自己比较偏好更加robust的办法，避免过度data mining。我自己之前的工作经验都是投资期限比较久的机构，存在价值投资，长期投资和反向投资的bias，对TAA一般不喜欢bet太重的仓位，除非信号非常极端。
+估值在不同期限内回归均值的概率
+                                    Greed & Fear Index
+
+--------------------------------
+
+Article No. 97
+长期利率中枢在哪？
+2016-02-03 GlobalAssetAllocator
+
+潜在增速和人口结构决定经济体的资产回报率和资金供求关系，进而决定长期均衡利率。
+前者比较好理解，潜在增速决定整个经济体的投资回报率，进而决定利率。从美国和日本的历史数据可以看到经济增速和利率的关系。
+过去二十年由于利率管制，政策利率一直低于名义GDP增速。但未来随着利率市场化进程推进，预计政策利率将逐步和名义GDP增速靠拢。
+根据经合组织的预测，假设人民银行能够在长期维持物价稳定的任务，将通胀维持在2%左右，中国未来50年的名义GDP增速在5%左右，则长期政策利率也应该在5%左右。
+对于中国将要进入长期零利率的论断我是不敢苟同的。
+现在的5年5年远期利率在3%左右，再扣掉1%的历史平均期限溢价，对
+短端
+人口结构对利率的影响者稍微复杂点。人在比较年轻的时候收入比较低，基本是net borrower。到35-64岁这段，收入超过支出，成为net saver，为退休后的生活做准备。65岁退休之后，基本没有收入，又成了net borrower。所以，35-64年龄段人口是主要的储蓄提供者。1990年到现在，全球人口结构出现了一个显著的变化，就是net saver比例持续上升，其中一大部分是中国贡献的。这些net saver贡献了巨大的资金供给，不断压低全球利率，造就了20多年的债券大牛市。伯南克称之为global saving glut。所以，一个常见的误区是，很多人觉得中国进入人口老龄化就会导致利率下降，其实关键的变量是net saver的比例。按照当前人口趋势，虽然65岁上人口占比会增加，进一步加剧老龄化，但net saver占比未来20年会逐渐降低，导致均衡利率回升，而非下降。
+全球人口年龄结构
+ 
+中国人口年龄结构
+净储蓄人口占比未来20年会逐渐下降，均衡利率回升
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------
+
+Article No. 98
+Regime shift from liquidity to growth
+2016-02-01 GlobalAssetAllocator
+
+Liquidity explained
+A share performance quite well in history, but there are times of divergence in
+2008 and 2011. The third one is happening right now. Due to local government
+debt swap, liquidity is flushing, but equity multiple is shrinking. I think market
+is going through a regime shift from liquidity to growth in which negative growth
+surprise outweighs liquidity shock. The situation looks quite similar with
+those in 2008 and 2011. Looking beyond, growth seems unlikely to pick up at
+least in 2016 Q1.  This year's debt swap and the local governments' willingness to spend money holds the key for economy and capital markets.
+ 
+
+--------------------------------
+
+Article No. 99
+Spring of Multi-assets Strategy?
+2016-02-01 GlobalAssetAllocator
+
+Disappointment with relative benchmark investing, concern around equity market volatility, and the end of the bull market in bonds combine with ageing demographics to increase client focus on absolute return outcomes with a degree of volatility protection... says Morgan Stanley. I tend to agree.
+
+--------------------------------
+
+Article No. 100
+推荐《辛瑞那》
+2016-01-30 GlobalAssetAllocator
+
+周末大家轻松下吧。推荐一部讲石油、中东局势和美国政治的电影，这种题材好像挺少的，乔治克鲁尼和马特达蒙主演。10年过去了，世界局势天翻地覆，现在看挺应景/感慨的。
+
+--------------------------------
+
+Article No. 101
+日本为什么要实施负利率？
+2016-01-29 GlobalAssetAllocator
+
+复习下安倍经济学的传导通道，随手画了一张图，字丑随便看看
+总之，最终目的是走出通缩的恶行循环，汇率是非常重要的工具
+ 
+ 
+日本企业盈利对汇率非常敏感，近期全球市场risk off导致的日元升值不利于企业盈利
+ 
+企业盈利不好就不会投资
+ 
+企业盈利恶化就不会雇人，更不会进行人力资本投资
+ 
+ 
+就业市场不好转，工资就不会上升。而且日本的工资上涨主要依赖于奖金部分，难以让居民产生工资持续增长的预期
+ 
+日本通胀预期再次下滑，安倍经济学失败的风险加大
+ 
+总之，负利率很大程度是为扭转近期日元升值的影响。但是，日元兑美元汇率低过PPP20%了，是30年来最低水平，再想贬很多也很困难。我也不知道BOJ接下来还会放什么大招，好像只剩买外汇或者买银行贷款了，两者都会引起很大争议。Stay tuned
+ 
+ 
+
+--------------------------------
+
+Article No. 102
+美国经济周期跟踪
+2016-01-28 GlobalAssetAllocator
+
+美国信用周期出现了恶化的迹象，High Yield Spread 放宽到危机时候的水平
+银行贷款标准再次收紧，这一次是2006年还是2012年呢？
+利率市场看上去也不乐观，曲线走平，但注意主要是BEI的贡献
+利润率下滑往往是衰退先照，只有1985年是反例
+1985年是上一次石油供给冲击，沙特增产绞杀North Sea，非能源行业利润率 holding up well
+原油市场再平衡正进行，油价底部不会太远，预计利润率不会继续下滑
+因为工资增速仍然疲弱，经济没有overheating的迹象
+从U3失业率看，美国已经达到满就业。但U6失业率仍有空间，解释了工资的疲弱
+产出缺口跟之前几次周期比仍很充裕，但这一指标的估计历来很有争议
+私人部门还处于净储蓄状态，经济没有过热的另一佐证
+Net net，美国本轮扩张还会继续，虽然增速放缓，但信用市场和利率市场overprice了衰退风险，risk premium比较厚。从历史美国经济周期看，衰退基本都是企业过于乐观，overinvestment without cost control，经济过热，内部不均衡加剧导致的，目前没有看到这些迹象。中国等外部因素当然是个风险，但美国经济总体非常closed and defensive，外面越遭美国相对越好。
+ 
+‍
+
+--------------------------------
+
+Article No. 103
+对economist/analyst/strategist/writer的好感度排名
+2016-01-26 GlobalAssetAllocator
+
+ 
+之前在知乎上看到这个笑话，问analyst是什么？（注释1）
+答：A market analyst is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
+笑归笑，分析师提供信息和分析框架的作用还是很重要的。
+ 
+声明：以下排名完全基于主观好恶，毫无科学根据，希望大家有点娱乐精神~
+ 
+Marks，Inker，Dalio，Arnott， Ilmanen，Gratham，Montier
+B. Gross，J. Stein，Himmelberg，Currie，J. Williams，Hyman，Hatzius
+ 
+Rieder，Obstfeld，Bianco，Santelli，《经济学人》标题编辑和插图画家
+ 
+马骏，徐晓庆，MK Tang，熊猫交易员，万钊
+ 
+张智威，朱海斌，明明，谢亚轩，高善文，邓海清
+ 
+屈红斌，汪涛，姜超，
+梁红，王涵，
+徐寒飞，董德志
+ 
+任泽平，李迅雷，李大霄，天津股侠
+ 
+张忆东，刘煜辉，石磊，林采宜
+ 
+徐彪
+ 
+ 1.岑蛋黄, https://www.zhihu.com/question/22273505/answer/21567990
+
+--------------------------------
+
+Article No. 104
+A stable RMB NEER will do，为何人民币不需要大贬
+2016-01-25 GlobalAssetAllocator
+
+之前提过，在国际收支里面，外汇流出有两种形式，对外负债去杠杆（企业偿还外债）和增持对外资产（居民购买国外资产）。这两种形式的规模完全不在同一个量级上。BIS的数据显示，3季度末前者的存量还剩8000多亿美元，考虑到经常账户每个季度有800亿的盈余，加3.3万亿的外汇储备，cover这些负债绰绰有余。真正的风险是后者，中国的M2在21万亿美元左右，流出15%外储就没了。
+虽然目前有每人每年5万的限额，外储也就是6000万人（北上广深）一年的量。居民的贬值预期有很大的内生性，管理国内居民的预期非常重要。今年初央行汇率政策上沟通有一些问题，立马引发了严重的贬值预期。这两天央行的表态和操作也一显示了央行急于稳定预期的意愿。
+实际上，从边际思维的角度，只要维持人民币指数稳定，就能很大程度缓解目前经济基本面面临的问题，我觉得对此央行非常清楚。
+RMB NEER维持稳定，出口就能从当前水平显著好转。
+RMB NEER维持稳定，花旗经济惊喜指数就会偏向正面。
+RMB NEER维持稳定，工业增加值一般会改善。当然，这一关系近期减弱不少，因为影响工业的还有外部需求和大宗商品价格等外生变量。
+RMB NEER维持稳定，工业企业利润率和上市公司业绩就会好转。
+RMB NEER维持稳定，通缩风险就会降低。
+RMB NEER维持稳定，利率有上行压力。
+ 
+
+--------------------------------
+
+Article No. 105
+An onvershooooting market
+2016-01-23 GlobalAssetAllocator
+
+14年以前股债表现track基本面比较紧，14年以后市场对基本面往往过度反应，这与经济转型期以及钱太多有关。14年拼命过度做“梦”，现在全家换美元。专业投资者应该多学学Blackrock看待市场的态度，哪有多少this time is different.
+08年危机之后，美股高波动意味着买入机会，这一次也是。形成结构性熊市的条件还没完全具备。
+
+--------------------------------
+
+Article No. 106
+境外做空势力现身！
+2016-01-21 GlobalAssetAllocator
+
+Bloomberg：saw offshore hedge fund trader dumping A share and H share， said people with inside information who declined to be identified...
+
+--------------------------------
+
+Article No. 107
+港币脱钩？想多了
+2016-01-20 GlobalAssetAllocator
+
+ 
+ CNY最近比较稳定，CFETS指数小幅回升，维持在100左右
+ 
+ 
+沪指好容易站上5日均线，大家都憋久了想搞一把，天津股侠已经半仓了。。。
+ 
+ 
+结果HKD又出了幺蛾子，HKD spot逼近弱方兑换
+12m HKD forward 和 implied vol spike
+ 
+ 
+UBS认为，HKD implied vol飙升并非是赌港币脱钩，而是来自一些股票衍生品票据which have short position in USD-HKD option， 对冲这些票据需要buy HKD option vol。12m HKD forward急升，也是源于这些头寸的delta hedge
+港股悲剧，也连累了A股,但反过来说，vol下来的时候，港股也会迎来反弹
+ 
+过去10年支撑香港经济和资产的有几大趋势因素，1）与大陆制造业融合带来的生产效率，2）大陆游客涌入带来的零售黄金时代，3）负实际利率支撑的房地产泡沫
+这几大因素目前都出现反转趋势，香港未来几年的前景确实比较悲观
+潜在增速下降
+游客人数和零售行业惨淡
+房价有明显泡沫
+美联储加息+大陆通缩=实际利率上升，资产价格的杀手锏
+但我觉得港币脱钩至少未来几年看不到，原因很简单，没有更好的替代方案。
+替代方案无非以下几种：
+转盯人民币。实际上，基本法里面并没有说港币一定要盯美元。基本法111条：The Hong Kong dollar, as the legal tender in the Hong Kong Special Administrative Region, shall continue to circulate. ... The authority to issue Hong Kong currency shall be vested in the Government of the Hong Kong Special Administrative Region. Moreover,it stipulates that the issue of Hong Kong currency must be backed by 
+a 100 percent reserve fund（didn't say USD）。
+对美元一次性贬值。这可以暂时缓解香港的通缩问题，但具体贬多少很难确定，如果贬得不够，大家会蜂拥抛港币，期待下一次贬值，恶性循环。最重要的是，这会大大损害联系汇率制度的credibility,即使这一次抗过去了，下一次遭遇外部冲击的时候， 所有人都会提前抢跑。
+学新加坡的managed floating。这个选项伤害会小一点，但失去了联系汇率带来的稳定性，这是香港作为金融和贸易中心的基石。
+现在可能的结果仍是muddle through，即维持当前兑换保证水平，辅以财政政策和宏观审慎政策，平滑外部冲击。
+首先，香港政府过去很多年攒了很多财政盈余，财政政策上是很有余地的
+之前房地产泡沫时期很多收紧房地产的政策，可以慢慢reverse，缓解房地产市场下行压力
+HKMA的aggregate balance有4000亿港币，加上8000亿外汇储备,银行间超额流动性充裕，银行往往利用这些HKD做carry，当前的forward水平是不可持续的。
+‍
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------
+
+Article No. 108
+为何2016年宽财政比松货币好？
+2016-01-18 GlobalAssetAllocator
+
+当前中国经济处于1位置，国际收支逆差，位于BP线之下，资本流动不畅通，BP线较平坦
+宽财政将IS曲线往右移，IS/LM/BP到达均衡点2，实现产出提高，利率升高，资本流入，国际收支平衡
+宽货币LM曲线往右移，利率下降，国际收支进一步恶化，贬值压力加大，到达位置3。此时，如果出口弹性足够大，外需可将IS右移，经济也能到达位置2，实现内外部均衡。但显然外部需求弹性没这么大，国际环境也不允许这么贬值
+
+--------------------------------
+
+Article No. 109
+Oaktree Memo之On the couch（转）
+2016-01-17 GlobalAssetAllocator
+
+值得打出来仔细读的一篇文章，尤其在当前这种风雨飘摇的市场环境里。
+https://www.oaktreecapital.com/docs/default-source/memos/on-the-couch.pdf?sfvrsn=4
+
+--------------------------------
+
+Article No. 110
+和平安证券四个石头的对话
+2016-01-16 GlobalAssetAllocator
+
+@石磊平安证券固定收益：一种流行的说法，rmb的贬值压力会改变中国利率的下行趋势，利差是决定汇率趋势的因素吗？实证不支持这个结论，实际上利率也是一个中间变量，关键是相对投资回报率，如果死扛利率的结果是把国内投资回报率进一步压低，那么如何留住那些资金？汇率压力能够影响的只是利率调整的节奏，不是方向。
+GAA：你怎么不去看看巴西？
+@石磊平安证券固定收益：巴西、俄罗斯都是低储蓄需要依赖外部融资的经济体，中国是高储蓄长期经常项目盈余经济体，这在经受外部冲击时，余地完全不同
+GAA:经常账户盈余也只是提供一个抵抗资本外流的安全垫而已，不改变整个逻辑链条的方向。况且现在中国这么高的经常账户盈余，国际收支整体还是逆差，更加反映了资本项的压力
+@石磊平安证券固定收益：中国外汇储备下降的原因是并非是国际投资头寸表中海外净资产下降造成的，而是外债偿还与自己的钱往外跑造成的，影响这个趋势的是内外部收益率的预期和国内m2增速太快造成的，而巴西是外资撤离
+GAA：资本流出本来就只有这两种可能，对外负债降低（偿还外债）和对外资产增加（存款美元化）。你说的巴西外资撤离是一个很不清楚的概念，对应的也只能是前两种方式之一，实际数据看就是前一种，这和国内企业外债到期不roll没有任何区别。
+另外，NIIP的增加下降只取决于经常账户和对外资产的估值变化，和资本项目没有关系，资本项目的变化对对外资产和负债的变化是同等的，所以不影响NIIP
+@石磊平安证券固定收益：资金的归属完全不同的，外资撤离就是外国人的资金撤离，储蓄率的高低决定了腾挪余地，明显的如地产公司过去发离岸债融资，那边利率高了，转换在国内发债融资就好了，还被爆抢，这就是中国的余地
+GAA：中国真正的余地是资本管制，如果不是QDII，RQDII停了，内地企业债怎么可能这么低水平发债。国债2.7，美国国债还2.1呢，CCS 2个点，如果不是资本管制，利率怎么可能不上去
+现在让外管局放开一万亿美元QDII额度给机构，你看还有人买收益2.7的国债没
+@石磊平安证券固定收益：回复@长颈鹿哈士奇星湖豹:贸易项下是管不住的，资本项目好管，世界上很多国家利率比美债低，欧洲负值好几年了，利率和汇率要结合看
+GAA：那就举欧元的例子，欧元从1.4左右跌到最多1.05，已经非常充分反映了欧美利差和ECB的宽松措施，PPP角度看，欧元已低估20%，欧洲资产估值也便宜，因此，欧洲虽然利率低，但资产的total return不一定比美国低。 但中国可不同，汇率还没调整，资产估值也高，如果利率比美国低，除资本管制，不可能
+总结一句，国内一些分析师，经济学家，例如这位，社科院某刘等，都是不好好说话的主，表达观点喜欢扯些含义模糊不清看起来很高大上的词汇（例如资产负债表衰退），没有数据支持，也缺乏对数据间钩稽关系的理解，其观点不足听信
+
+--------------------------------
+
+Article No. 111
+油油油 2
+2016-01-14 GlobalAssetAllocator
+
+布伦特一度跌破30，引发外围股市暴跌。
+ 
+2015年冬天莱茵河水位特别低，运往中欧的油船都装不满。
+由于供给太高，欧洲柴油refiner margin快速降低
+后果就是refiner原油需求下降，那么荷兰的油库可能会爆掉
+陆地油库爆掉就得往船上运，那么成本会提高，高盛估计原油forward曲线会变陡2美元，spot will bare the pain
+布伦特30美元到以下，加拿大的油砂和哥伦比亚的井就会停工，已经低过cash cost了，促进原油市场的进一步rebalance
+最后说下A股，今天传言国家队进场了，我觉得是个negative，国家队不可能像以前这么大规模买了，汇率会爆，也没有上次紧迫性。
+但technical看，oversold比较极端，所以看看今晚外围市场和油价，可以搞波小的。
+ 
+
+--------------------------------
+
+Article No. 112
+油油油
+2016-01-13 GlobalAssetAllocator
+
+技术上看，布伦特跌穿34-40的重要支撑位
+WTI期权隐含波动率飙升，everybody terrified
+投机净头寸比金融危机时候还极端
+虽然油价下跌是供给过剩导致，但消费者把油价下跌带来的减税当作wind fall， 所以saving rate没有下降，没能抵消油企缩减capex对经济负面影响，远期通胀也跟着油价泥沙俱下。
+ 
+
+--------------------------------
+
+Article No. 113
+油油油
+2016-01-13 GlobalAssetAllocator
+
+技术上看，布伦特跌穿34-40的重要支撑位
+WTI期权隐含波动率飙升，everybody terrified
+投资净空头寸比金融危机时候还极端
+虽然油价下跌是供给过剩导致，但消费者把油价下跌带来的减税当作wind fall， 所以saving rate没有下降，没能抵消油企缩减capex对经济负面影响
+
+--------------------------------
+
+Article No. 114
+Tactically cautious, mid-term bullish+《货币的轨迹》读书笔记
+2016-01-11 GlobalAssetAllocator
+
+虽然熔断取消了，但在油价屡破新低，人民币汇率政策不确定性上升的背景下，这几天风险资产非常suffer。
+OPEC不愿减产，全球石油库存太高。
+高盛担忧，如果库存超过仓库储存量，原油市场将出现operational  disress的极端情景，油价直接降至20美元的现金成本。
+CFETS指数降至100以下，央行终于连续两天下调中间价，但跟市场的communication还是太模糊，就像元嘉说的，市场不怕贬值，怕的是不确定性
+周期性股票的表现也反映了市场结构很弱
+这波下调超出了我的预期，之前几次技术性回调抄底都赚了钱，导致对风险不够敏感，比如万科-宝能事件当娱乐新闻看，没有充分考虑此事带来的政策变化和对险资蓝筹配置的影响。
+但中期（今年）来看，我还是比bullish A股,尤其已经跌了这么多的情况下。流动性仍然充足，股债相对估值已经比较充分的反映了对基本面的悲观预期，绝对估值水平也到了历史比较低的水平。
+解铃还须系铃人，Risk on需要油价带领大宗商品企稳，缓解全球通缩风险和EM企业的被动快速去产能。
+《货币的轨迹》读书笔记
+ 
+重视环比经济指标（
+和
+），环比拐点领先同比拐点
+CPI
+中虚拟租金占比
+，远低于美国
+，这导致
+低估房地产牛市时的真实通胀
+同理，制造业产品占
+权重
+，也低估了当前真实通缩
+房价对虚拟租金的传导有一定滞后，传导系数为
+非消费
+传导非食品
+时滞
+个月，传导比率
+，因为消费品制造企业往往提前几个月采购材料
+M1
+相对
+的增长幅度衡量的存款活期化程度，领先货币流通速度和通胀
+个季度。
+关注的三个实际利率指标：贷款利率
+，贷款利率
+企业
+和按揭贷款利率
+房价增速
+货币政策必须重视前瞻性，货币政策变化领先经济
+个月。如果央行缺乏独立性，在共识基础上（尤其是非专业人士共识）做决策，这些政策将缺乏前瞻性。
+利率自由化对净息差的影响在
+，但可以提升银行贷款比，对银行整体盈利影响有限。
+利率市场化要走在人民币汇率市场化之前，同时货币增速作为中间指标将失灵，因为外国对人民币的需求无法央行无法控制。
+人民币应有弹性的盯住一篮子货币，篮子的权重和组成不对外公布，对篮子的升贬值幅度由经济过热程度决定（出口增速和进口价格）
+盯住一篮子货币会增加对美元汇率的波幅，严格盯住一篮子货币，人民币兑美元波幅将达到
+，中小企业难以承受，有弹性的盯住一篮子货币，人民币兑美元波幅为
+，波幅小于
+的货币
+控制人民币兑美元波幅的几种措施：每日波幅上下限，每
+日波幅上下限，
+日波幅上下限超过之后每日波幅的控制
+反对通过一次性升贬值解决汇率问题，进出口企业承受不了，可能出现破产潮
+M2
+增速高于名义
+比较合适
+重视存货数据，反映固定资产投资和实际资本形成的差距，有助于理解未来几个月需求变化
+
+--------------------------------
+
+Article No. 115
+贬值利好原材料行业，利空债券
+2016-01-06 GlobalAssetAllocator
+
+贬值打压市场风险偏好，但利好原材料行业表现，择时商品B和资源B
+债券利率和汇率走势背离维持了一段时间，但始终是要靠拢的，汇率市场和利率市场相信谁呢，not a tough choice to make
+关注券商B150236，1月5号差点下折，跌停了三天，如果熬过这一段可能会暴涨
+ 
+
+--------------------------------
+
+Article No. 116
+剧本已经写好？
+2016-01-05 GlobalAssetAllocator
+
+400天均线有惊无险，汇率死死摁在中间价，剧本已写好？
+Credit Suisse Risk Appetite Index 重回恐慌区间，等待油价和中国经济数据企稳risk on
+
+--------------------------------
+
+Article No. 117
+盯汇率抄底股市？
+2016-01-04 GlobalAssetAllocator
+
+汇率承压是今天暴跌的主要原因之一。
+美元资产吸引力达到新高。
+12月财新PMI低得离谱也是帮凶。
+CFETS指数和在岸/离岸价差达到此前干预的点位，央行会出手吗？
+从经济数据看，这段贬值似乎是央行有意为之。央妈，差不多就行了！
+现在股票不是很贵，我觉得盯着汇率可以抄底，目前股市短期技术面进入超卖了，明天再跌到400天均线可以考虑搞。
+
+--------------------------------
+
